@@ -1,0 +1,779 @@
+"","Obv","Patient","Age","Gender","PreIns","Site","Stay.Length","SOC_EmpID","SOC_Tine","SOC_Vt","SOC_Vc","DIS_EmpID","DIS_Tine","DIS_Vt","DIS_Vc","Dsc","Tine","SOC_Ans","DIS_Ans","Response","Video.Time","Video.Comp"
+"1",1,643,67,"F","UHC PPS Medicare Complete","NE OASIS Certified",10,"31","Control",0,0,"30","Control",0,0,"PT","CC",11,2,11,0,0
+"2",2,271,74,"F","Advantra Nebraska PPS","NE OASIS Certified",89,"14","Control",0,0,"11","Control",0,0,"SN","CC",11,7,6,0,0
+"3",3,263,80,"M","Farmers Ins","IA OASIS Certified",88,"23","Control",0,0,"23","Control",0,0,"PT","CC",7,2,7,0,0
+"4",4,736,97,"F","Medicare/NE","IA OASIS Certified",41,"23","Control",0,0,"23","Control",0,0,"PT","CC",9,5,6,0,0
+"5",5,354,82,"F","Humana Medicare HMO","NE OASIS Certified",19,"23","Control",0,0,"30","Control",0,0,"PT","CC",9,2,9,0,0
+"6",6,174,78,"M","Medicare/NE","IA OASIS Certified",28,"23","Control",0,0,"23","Control",0,0,"PT","CC",6,1,7,0,0
+"7",7,462,66,"F","Medicare/NE","IA OASIS Certified",19,"23","Control",0,0,"23","Control",0,0,"PT","CC",13,2,13,0,0
+"8",8,232,59,"F","Medicaid/NE","NE OASIS Certified",238,"8","Control",0,0,"4","Control",0,0,"PT","CC",11,14,-1,0,0
+"9",9,202,69,"F","Medicare/NE","IA OASIS Certified",75,"8","Control",0,0,"2","Control",0,0,"PT","CC",8,3,7,0,0
+"10",10,280,80,"F","Medicare/NE","NE OASIS Certified",109,"8","Control",0,0,"32","Control",0,0,"PT","CC",14,2,14,0,0
+"11",11,308,67,"M","Medicare/NE","NE OASIS Certified",51,"8","Control",0,0,"8","Control",0,0,"PT","CC",9,9,2,0,0
+"12",12,238,66,"M","Medicare/NE","NE OASIS Certified",43,"8","Control",0,0,"8","Control",0,0,"PT","CC",9,3,8,0,0
+"13",13,97,79,"F","Medicare/NE","NE OASIS Certified",30,"8","Control",0,0,"8","Control",0,0,"PT","CC",9,3,8,0,0
+"14",14,362,76,"F","UHC PPS Medicare Complete","NE OASIS Certified",28,"8","Control",0,0,"8","Control",0,0,"PT","CC",11,2,11,0,0
+"15",15,380,72,"M","Medicare/NE","NE OASIS Certified",37,"8","Control",0,0,"8","Control",0,0,"PT","CC",9,5,6,0,0
+"16",16,388,58,"F","Medicaid/NE","NE OASIS Certified",31,"8","Control",0,0,"8","Control",0,0,"PT","CC",12,3,11,0,0
+"17",17,83,74,"F","Advantra Nebraska PPS","NE OASIS Certified",16,"8","Control",0,0,"8","Control",0,0,"PT","CC",14,10,6,0,0
+"18",18,237,79,"F","UHC PPS Medicare Complete","NE OASIS Certified",17,"8","Control",0,0,"30","Control",0,0,"PT","CC",9,1,10,0,0
+"19",19,405,79,"F","Medicare/NE","NE OASIS Certified",17,"8","Control",0,0,"8","Control",0,0,"PT","CC",13,3,12,0,0
+"20",20,60,95,"F","Medicare/NE","NE OASIS Certified",50,"8","Control",0,0,"8","Control",0,0,"PT","CC",11,10,9,0,0
+"21",21,431,63,"M","Advantra Nebraska PPS","NE OASIS Certified",15,"8","Control",0,0,"31","Control",0,0,"PT","CC",11,5,8,0,0
+"22",22,101,84,"F","AETNA Better Health","NE OASIS Certified",25,"8","Control",0,0,"32","Control",0,0,"PT","CC",9,0,11,0,0
+"23",23,87,66,"F","Humana Medicare HMO","NE OASIS Certified",28,"8","Control",0,0,"8","Control",0,0,"PT","CC",10,4,8,0,0
+"24",24,68,88,"F","Medicare/NE","NE OASIS Certified",32,"8","Control",0,0,"25","Control",0,0,"PT","CC",9,4,7,0,0
+"25",25,489,57,"F","UHC PPS Medicare Complete","NE OASIS Certified",20,"8","Control",0,0,"27","Control",0,0,"PT","CC",11,1,12,0,0
+"26",26,154,83,"F","UHC PPS Medicare Complete","NE OASIS Certified",29,"8","Control",0,0,"13","Control",0,0,"PT","CC",13,1,14,0,0
+"27",27,245,81,"F","UHC PPS Medicare Complete","NE OASIS Certified",20,"8","Control",0,0,"8","Control",0,0,"PT","CC",12,3,11,0,0
+"28",28,400,92,"M","Medicare/NE","NE OASIS Certified",20,"15","Control",0,0,"15","Control",0,0,"PT","CC",5,0,7,0,0
+"29",29,434,73,"F","Medicare/NE","IA OASIS Certified",42,"15","Control",0,0,"23","Control",0,0,"PT","CC",10,2,10,0,0
+"30",30,480,74,"M","Medicare/NE","NE OASIS Certified",14,"15","Control",0,0,"1","Control",0,0,"PT","CC",11,2,11,0,0
+"31",31,176,83,"F","Advantra Nebraska PPS","NE OASIS Certified",36,"15","Control",0,0,"31","Control",0,0,"PT","CC",10,5,7,0,0
+"32",32,457,85,"M","UHC PPS Medicare Complete","NE OASIS Certified",57,"26","Control",0,0,"7","Control",0,0,"SN","CC",10,1,11,0,0
+"33",33,80,87,"M","Medicare/NE","NE OASIS Certified",10,"14","Control",0,0,"29","Control",0,0,"SN","CC",11,10,3,0,0
+"34",34,387,71,"M","Medicare/NE","NE OASIS Certified",26,"14","Control",0,0,"14","Control",0,0,"SN","CC",15,3,14,0,0
+"35",35,404,84,"F","Medicare/NE","NE OASIS Certified",45,"14","Control",0,0,"13","Control",0,0,"SN","CC",7,2,7,0,0
+"36",36,426,63,"F","Medicare/NE","NE OASIS Certified",55,"14","Control",0,0,"16","Control",0,0,"SN","CC",10,5,7,0,0
+"37",37,433,42,"M","Medicare/NE","NE OASIS Certified",76,"14","Control",0,0,"14","Control",0,0,"SN","CC",16,6,12,0,0
+"38",38,486,53,"M","BCBS Of Nebraska","NE OASIS Certified",31,"14","Control",0,0,"14","Control",0,0,"SN","CC",16,5,13,0,0
+"39",39,49,90,"F","UHC PPS Medicare Complete","NE OASIS Certified",33,"14","Control",0,0,"14","Control",0,0,"SN","CC",9,5,6,0,0
+"40",40,335,62,"M","Humana Medicare HMO","NE OASIS Certified",58,"30","Control",0,0,"30","Control",0,0,"PT","CC",10,8,4,0,0
+"41",41,88,60,"F","UHC PPS Medicare Complete","NE OASIS Certified",58,"30","Control",0,0,"12","Control",0,0,"PT","CC",7,4,5,0,0
+"42",42,299,81,"M","Medicare/NE","NE OASIS Certified",23,"30","Control",0,0,"10","Control",0,0,"PT","CC",7,2,7,0,0
+"43",43,5,74,"F","UHC PPS Medicare Complete","NE OASIS Certified",54,"27","Control",0,0,"27","Control",0,0,"PT","CC",7,0,9,0,0
+"44",44,344,69,"M","Medicare/NE","NE OASIS Certified",16,"27","Control",0,0,"10","Control",0,0,"PT","CC",7,3,6,0,0
+"45",45,408,65,"M","Advantra Nebraska PPS","NE OASIS Certified",15,"27","Control",0,0,"27","Control",0,0,"PT","CC",11,2,11,0,0
+"46",46,412,81,"F","Medicare/NE","NE OASIS Certified",18,"27","Control",0,0,"27","Control",0,0,"PT","CC",7,0,9,0,0
+"47",47,444,83,"F","Advantra Nebraska PPS","NE OASIS Certified",27,"27","Control",0,0,"27","Control",0,0,"PT","CC",24,1,19,0,0
+"48",48,448,85,"F","Humana Medicare HMO","NE OASIS Certified",35,"27","Control",0,0,"27","Control",0,0,"PT","CC",10,2,10,0,0
+"49",49,450,63,"F","United Healthcare Community Plan","NE OASIS Certified",14,"27","Control",0,0,"25","Control",0,0,"PT","CC",14,6,10,0,0
+"50",50,209,63,"F","Amerigroup Iowa","IA OASIS Certified",321,"28","Control",0,0,"28","Control",0,0,"SN","CC",7,9,0,0,0
+"51",51,741,92,"M","Medicare/NE","IA OASIS Certified",76,"28","Control",0,0,"23","Control",0,0,"SN","CC",16,7,11,0,0
+"52",52,187,78,"M","VA PPS","NE OASIS Certified",88,"28","Control",0,0,"28","Control",0,0,"SN","CC",9,8,3,0,0
+"53",53,363,51,"F","AmeriHealth Caritas Iowa","NE OASIS Certified",21,"28","Control",0,0,"2","Control",0,0,"SN","CC",15,6,11,0,0
+"54",54,738,89,"F","Medicare/NE","IA OASIS Certified",35,"28","Control",0,0,"23","Control",0,0,"SN","CC",5,3,4,0,0
+"55",55,420,65,"M","VA PPS","NE OASIS Certified",16,"28","Control",0,0,"28","Control",0,0,"SN","CC",5,1,6,0,0
+"56",56,252,76,"M","UHC PPS Medicare Complete","IA OASIS Certified",36,"28","Control",0,0,"2","Control",0,0,"SN","CC",11,7,6,0,0
+"57",57,459,83,"F","UHC PPS Medicare Complete","IA OASIS Certified",49,"28","Control",0,0,"28","Control",0,0,"SN","CC",12,6,8,0,0
+"58",58,469,65,"F","AmeriHealth Caritas Iowa","IA OASIS Certified",28,"28","Control",0,0,"28","Control",0,0,"SN","CC",7,4,5,0,0
+"59",59,189,55,"M","United Healthcare Community Plan","NE OASIS Certified",14,"28","Control",0,0,"14","Control",0,0,"SN","CC",8,3,7,0,0
+"60",60,739,77,"M","Advantra Iowa PPS","IA OASIS Certified",22,"28","Control",0,0,"28","Control",0,0,"SN","CC",7,4,5,0,0
+"61",61,495,58,"F","Wellmark BCBS Of IA","NE OASIS Certified",21,"28","Control",0,0,"8","Control",0,0,"SN","CC",11,4,9,0,0
+"62",62,104,68,"F","United Healthcare Community Plan","NE OASIS Certified",56,"29","Control",0,0,"25","Control",0,0,"SN","CC",14,8,8,0,0
+"63",63,301,66,"F","Medicare/NE","NE OASIS Certified",55,"29","Control",0,0,"29","Control",0,0,"SN","CC",11,6,7,0,0
+"64",64,323,81,"M","VA PPS","NE OASIS Certified",24,"29","Control",0,0,"29","Control",0,0,"SN","CC",8,6,4,0,0
+"65",65,318,73,"F","UHC PPS Medicare Complete","IA OASIS Certified",15,"29","Control",0,0,"29","Control",0,0,"SN","CC",12,8,6,0,0
+"66",66,403,86,"M","Medicare/NE","NE OASIS Certified",40,"29","Control",0,0,"29","Control",0,0,"SN","CC",10,3,9,0,0
+"67",67,6,82,"F","UHC PPS Medicare Complete","NE OASIS Certified",58,"29","Control",0,0,"29","Control",0,0,"SN","CC",15,4,13,0,0
+"68",68,268,88,"M","UHC PPS Medicare Complete","NE OASIS Certified",46,"10","Control",0,0,"10","Control",0,0,"PT","CC",9,8,3,0,0
+"69",69,25,78,"F","Medicare/NE","NE OASIS Certified",25,"10","Control",0,0,"19","Control",0,0,"PT","CC",8,2,8,0,0
+"70",70,461,80,"M","UHC PPS Medicare Complete","NE OASIS Certified",36,"10","Control",0,0,"10","Control",0,0,"PT","CC",12,1,13,0,0
+"71",71,62,87,"F","UHC PPS Medicare Complete","NE OASIS Certified",41,"10","Control",0,0,"32","Control",0,0,"PT","CC",14,5,8,0,0
+"72",72,126,92,"F","Medicare/NE","IA OASIS Certified",26,"10","Control",0,0,"23","Control",0,0,"PT","CC",10,4,8,0,0
+"73",73,57,76,"M","Advantra Nebraska PPS","NE OASIS Certified",146,"3","Control",0,0,"14","Control",0,0,"SN","CC",12,8,6,0,0
+"74",74,277,47,"M","UHC  Military West","NE OASIS Certified",92,"3","Control",0,0,"3","Control",0,0,"SN","CC",13,2,13,0,0
+"75",75,9,77,"M","Medicare/NE","IA OASIS Certified",52,"3","Control",0,0,"23","Control",0,0,"SN","CC",17,8,11,0,0
+"76",76,278,58,"F","Medicare/NE","NE OASIS Certified",59,"3","Control",0,0,"14","Control",0,0,"SN","CC",12,2,12,0,0
+"77",77,329,61,"F","United Healthcare Community Plan","NE OASIS Certified",48,"3","Control",0,0,"14","Control",0,0,"SN","CC",9,3,8,0,0
+"78",78,332,85,"F","UHC PPS Medicare Complete","NE OASIS Certified",47,"3","Control",0,0,"3","Control",0,0,"SN","CC",10,10,2,0,0
+"79",79,347,75,"M","Medicare/NE","NE OASIS Certified",12,"3","Control",0,0,"29","Control",0,0,"SN","CC",3,5,0,0,0
+"80",80,361,93,"M","Medicare/NE","IA OASIS Certified",20,"3","Control",0,0,"29","Control",0,0,"SN","CC",11,8,5,0,0
+"81",81,32,33,"F","United Healthcare Community Plan","NE OASIS Certified",10,"3","Control",0,0,"3","Control",0,0,"SN","CC",2,0,4,0,0
+"82",82,163,78,"F","Advantra Nebraska PPS","NE OASIS Certified",21,"3","Control",0,0,"3","Control",0,0,"SN","CC",13,4,11,0,0
+"83",83,196,91,"F","UHC PPS Medicare Complete","NE OASIS Certified",21,"3","Control",0,0,"14","Control",0,0,"SN","CC",9,9,2,0,0
+"84",84,441,77,"M","Medicare/NE","NE OASIS Certified",26,"3","Control",0,0,"3","Control",0,0,"SN","CC",11,2,11,0,0
+"85",85,218,84,"M","Medicare/NE","NE OASIS Certified",30,"12","Control",0,0,"12","Control",0,0,"SN","CC",11,7,6,0,0
+"86",86,300,91,"F","Medicare/NE","NE OASIS Certified",23,"12","Control",0,0,"24","Control",0,0,"SN","CC",11,4,9,0,0
+"87",87,51,86,"F","UHC PPS Medicare Complete","NE OASIS Certified",34,"12","Control",0,0,"12","Control",0,0,"SN","CC",15,8,9,0,0
+"88",88,229,83,"M","UHC PPS Medicare Complete","NE OASIS Certified",20,"12","Control",0,0,"19","Control",0,0,"SN","CC",10,3,9,0,0
+"89",89,265,89,"F","Medicare/NE","NE OASIS Certified",59,"12","Control",0,0,"15","Control",0,0,"SN","CC",10,5,7,0,0
+"90",90,339,57,"M","Medicare/NE","NE OASIS Certified",6,"12","Control",0,0,"12","Control",0,0,"SN","CC",12,7,4,0,0
+"91",91,348,80,"M","Medicare/NE","IA OASIS Certified",80,"12","Control",0,0,"23","Control",0,0,"SN","CC",10,4,8,0,0
+"92",92,58,82,"F","UHC PPS Medicare Complete","NE OASIS Certified",21,"12","Control",0,0,"12","Control",0,0,"SN","CC",7,6,3,0,0
+"93",93,379,82,"F","Medicare/NE","NE OASIS Certified",23,"12","Control",0,0,"12","Control",0,0,"SN","CC",10,4,8,0,0
+"94",94,377,76,"M","Medicare/NE","NE OASIS Certified",36,"12","Control",0,0,"31","Control",0,0,"SN","CC",10,9,3,0,0
+"95",95,145,81,"M","Medicare/NE","NE OASIS Certified",49,"12","Control",0,0,"1","Control",0,0,"SN","CC",11,2,11,0,0
+"96",96,275,90,"M","UHC PPS Medicare Complete","NE OASIS Certified",29,"12","Control",0,0,"12","Control",0,0,"SN","CC",13,4,11,0,0
+"97",97,398,66,"M","Humana Medicare HMO","NE OASIS Certified",56,"12","Control",0,0,"12","Control",0,0,"SN","CC",10,5,7,0,0
+"98",98,243,70,"M","Medicare/NE","NE OASIS Certified",21,"12","Control",0,0,"12","Control",0,0,"SN","CC",14,7,9,0,0
+"99",99,456,83,"M","Advantra Nebraska PPS","NE OASIS Certified",20,"12","Control",0,0,"12","Control",0,0,"SN","CC",10,4,8,0,0
+"100",100,47,92,"F","Advantra Nebraska PPS","NE OASIS Certified",22,"12","Control",0,0,"12","Control",0,0,"SN","CC",11,8,5,0,0
+"101",101,743,92,"F","UHC PPS Medicare Complete","NE OASIS Certified",42,"12","Control",0,0,"4","Control",0,0,"SN","CC",8,7,3,0,0
+"102",102,473,56,"F","Medicare/NE","NE OASIS Certified",19,"12","Control",0,0,"12","Control",0,0,"SN","CC",13,5,7,0,0
+"103",103,487,64,"M","UHC PPS Medicare Complete","NE OASIS Certified",44,"12","Control",0,0,"12","Control",0,0,"SN","CC",9,2,9,0,0
+"104",104,56,63,"F","Medicare/NE","NE OASIS Certified",202,"13","Control",0,0,"4","Control",0,0,"SN","CC",10,5,7,0,0
+"105",105,220,63,"M","Medicare/NE","NE OASIS Certified",26,"13","Control",0,0,"13","Control",0,0,"SN","CC",12,1,13,0,0
+"106",106,139,82,"F","Medicare/NE","NE OASIS Certified",25,"13","Control",0,0,"13","Control",0,0,"SN","CC",9,3,8,0,0
+"107",107,266,43,"F","United Healthcare Community Plan","NE OASIS Certified",84,"5","Control",0,0,"9","Control",0,0,"SN","CC",12,2,12,0,0
+"108",108,267,78,"F","UHC PPS Medicare Complete","NE OASIS Certified",81,"5","Control",0,0,"4","Control",0,0,"SN","CC",13,8,7,0,0
+"109",109,113,62,"F","AETNA Better Health","NE OASIS Certified",47,"5","Control",0,0,"4","Control",0,0,"SN","CC",17,11,8,0,0
+"110",110,290,67,"M","Medicare/NE","NE OASIS Certified",101,"5","Control",0,0,"32","Control",0,0,"SN","CC",16,7,11,0,0
+"111",111,252,76,"M","UHC PPS Medicare Complete","IA OASIS Certified",55,"5","Control",0,0,"2","Control",0,0,"SN","CC",10,7,5,0,0
+"112",112,298,85,"M","Medicare/NE","NE OASIS Certified",46,"5","Control",0,0,"24","Control",0,0,"SN","CC",17,11,5,0,0
+"113",113,130,69,"F","Humana Medicare HMO","NE OASIS Certified",33,"5","Control",0,0,"12","Control",0,0,"SN","CC",10,6,6,0,0
+"114",114,313,34,"F","Medicare/NE","NE OASIS Certified",26,"5","Control",0,0,"12","Control",0,0,"SN","CC",9,3,8,0,0
+"115",115,117,57,"F","Medicare/NE","NE OASIS Certified",52,"5","Control",0,0,"23","Control",0,0,"SN","CC",15,7,10,0,0
+"116",116,327,56,"F","Medicare/NE","NE OASIS Certified",20,"5","Control",0,0,"9","Control",0,0,"SN","CC",17,5,14,0,0
+"117",117,79,83,"F","UHC PPS Medicare Complete","NE OASIS Certified",31,"5","Control",0,0,"15","Control",0,0,"SN","CC",11,5,8,0,0
+"118",118,214,72,"F","UHC PPS Medicare Complete","NE OASIS Certified",15,"5","Control",0,0,"30","Control",0,0,"SN","CC",12,4,10,0,0
+"119",119,342,75,"F","Medicare/NE","NE OASIS Certified",59,"5","Control",0,0,"24","Control",0,0,"SN","CC",11,5,8,0,0
+"120",120,350,79,"F","Medicare/NE","NE OASIS Certified",24,"5","Control",0,0,"1","Control",0,0,"SN","CC",12,5,9,0,0
+"121",121,333,70,"M","Advantra Iowa PPS","IA OASIS Certified",88,"5","Control",0,0,"28","Control",0,0,"SN","CC",11,10,3,0,0
+"122",122,353,37,"F","Amerigroup Iowa","IA OASIS Certified",32,"5","Control",0,0,"9","Control",0,0,"SN","CC",14,5,11,0,0
+"123",123,357,72,"F","Medicare/NE","IA OASIS Certified",58,"5","Control",0,0,"24","Control",0,0,"SN","CC",17,7,9,0,0
+"124",124,367,77,"F","Medicare/NE","NE OASIS Certified",38,"5","Control",0,0,"28","Control",0,0,"SN","CC",10,9,3,0,0
+"125",125,369,46,"F","Amerigroup Iowa","IA OASIS Certified",13,"5","Control",0,0,"12","Control",0,0,"SN","CC",7,4,5,0,0
+"126",126,366,84,"M","Humana Medicare PPO","NE OASIS Certified",18,"5","Control",0,0,"10","Control",0,0,"SN","CC",13,2,13,0,0
+"127",127,219,89,"F","UHC PPS Medicare Complete","IA OASIS Certified",29,"5","Control",0,0,"28","Control",0,0,"SN","CC",9,5,6,0,0
+"128",128,43,81,"F","UHC PPS Medicare Complete","NE OASIS Certified",14,"5","Control",0,0,"4","Control",0,0,"SN","CC",11,8,5,0,0
+"129",129,376,74,"M","BCBS Of Nebraska","NE OASIS Certified",18,"5","Control",0,0,"12","Control",0,0,"SN","CC",10,3,9,0,0
+"130",130,381,82,"F","Medicare/NE","NE OASIS Certified",17,"5","Control",0,0,"30","Control",0,0,"SN","CC",12,2,12,0,0
+"131",131,74,89,"F","UHC PPS Medicare Complete","NE OASIS Certified",71,"5","Control",0,0,"7","Control",0,0,"SN","CC",10,9,3,0,0
+"132",132,386,20,"F","BCBS Of Nebraska","NE OASIS Certified",19,"5","Control",0,0,"11","Control",0,0,"SN","CC",13,6,9,0,0
+"133",133,389,27,"M","Medicaid/NE","NE OASIS Certified",25,"5","Control",0,0,"9","Control",0,0,"SN","CC",10,14,4,0,0
+"134",134,391,64,"M","AETNA Better Health","NE OASIS Certified",11,"5","Control",0,0,"1","Control",0,0,"SN","CC",15,3,14,0,0
+"135",135,137,81,"M","UHC PPS Medicare Complete","NE OASIS Certified",20,"5","Control",0,0,"15","Control",0,0,"SN","CC",14,2,14,0,0
+"136",136,185,70,"F","Medicare/NE","NE OASIS Certified",34,"5","Control",0,0,"12","Control",0,0,"SN","CC",8,1,9,0,0
+"137",137,138,93,"F","Advantra Nebraska PPS","NE OASIS Certified",19,"5","Control",0,0,"4","Control",0,0,"SN","CC",11,6,7,0,0
+"138",138,34,85,"M","Medicare/NE","NE OASIS Certified",26,"5","Control",0,0,"9","Control",0,0,"SN","CC",14,8,8,0,0
+"139",139,414,78,"M","Medicare/NE","NE OASIS Certified",25,"5","Control",0,0,"12","Control",0,0,"SN","CC",13,0,15,0,0
+"140",140,258,56,"F","Medicare/NE","NE OASIS Certified",45,"5","Control",0,0,"12","Control",0,0,"SN","CC",14,7,9,0,0
+"141",141,204,65,"F","AETNA Better Health","NE OASIS Certified",39,"5","Control",0,0,"9","Control",0,0,"SN","CC",13,5,10,0,0
+"142",142,424,85,"F","Medicare/NE","NE OASIS Certified",17,"5","Control",0,0,"4","Control",0,0,"SN","CC",9,5,6,0,0
+"143",143,429,39,"F","United Health Care","NE OASIS Certified",50,"5","Control",0,0,"20","Control",0,0,"SN","CC",11,2,11,0,0
+"144",144,422,79,"F","Medicare/NE","NE OASIS Certified",18,"5","Control",0,0,"12","Control",0,0,"SN","CC",10,1,11,0,0
+"145",145,246,56,"M","Medicare/NE","IA OASIS Certified",36,"5","Control",0,0,"23","Control",0,0,"SN","CC",10,3,9,0,0
+"146",146,438,53,"M","Medicare/NE","NE OASIS Certified",33,"5","Control",0,0,"31","Control",0,0,"SN","CC",13,4,8,0,0
+"147",147,119,85,"M","UHC PPS Medicare Complete","NE OASIS Certified",30,"5","Control",0,0,"15","Control",0,0,"SN","CC",15,7,10,0,0
+"148",148,66,69,"F","Enrichment","NE OASIS Certified",31,"5","Control",0,0,"11","Control",0,0,"SN","CC",10,9,3,0,0
+"149",149,41,88,"M","Medicare/NE","NE OASIS Certified",2,"5","Control",0,0,"11","Control",0,0,"SN","CC",16,16,2,0,0
+"150",150,19,88,"F","Medicare/NE","NE OASIS Certified",50,"5","Control",0,0,"12","Control",0,0,"SN","CC",9,0,11,0,0
+"151",151,208,90,"F","Medicare/NE","NE OASIS Certified",58,"31","Control",0,0,"11","Control",0,0,"PT","CC",11,5,8,0,0
+"152",152,368,85,"M","Medicare/NE","NE OASIS Certified",36,"31","Control",0,0,"10","Control",0,0,"PT","CC",11,9,4,0,0
+"153",153,143,66,"F","Medicare/NE","NE OASIS Certified",53,"9","Control",0,0,"1","Control",0,0,"SN","CC",11,12,1,0,0
+"154",154,242,62,"F","BCBS Of Nebraska","IA OASIS Certified",42,"9","Control",0,0,"9","Control",0,0,"SN","CC",12,4,10,0,0
+"155",155,152,83,"F","Medicare/NE","NE OASIS Certified",59,"9","Control",0,0,"12","Control",0,0,"SN","CC",13,11,4,0,0
+"156",156,316,49,"F","Medicare/NE","NE OASIS Certified",20,"9","Control",0,0,"9","Control",0,0,"SN","CC",12,2,12,0,0
+"157",157,120,90,"F","UHC PPS Medicare Complete","NE OASIS Certified",27,"9","Control",0,0,"9","Control",0,0,"SN","CC",9,4,7,0,0
+"158",158,370,58,"M","United Healthcare Community Plan","NE OASIS Certified",16,"9","Control",0,0,"9","Control",0,0,"SN","CC",16,1,17,0,0
+"159",159,371,78,"F","Medicare/NE","NE OASIS Certified",17,"9","Control",0,0,"11","Control",0,0,"SN","CC",7,0,9,0,0
+"160",160,383,66,"F","Medicare/NE","NE OASIS Certified",29,"9","Control",0,0,"9","Control",0,0,"SN","CC",12,8,6,0,0
+"161",161,399,43,"F","Humana Medicare PPO","NE OASIS Certified",23,"9","Control",0,0,"9","Control",0,0,"SN","CC",11,9,4,0,0
+"162",162,411,67,"F","Medicare/NE","IA OASIS Certified",97,"9","Control",0,0,"9","Control",0,0,"SN","CC",14,8,8,0,0
+"163",163,307,71,"F","Medicare/NE","NE OASIS Certified",50,"9","Control",0,0,"9","Control",0,0,"SN","CC",14,1,15,0,0
+"164",164,248,59,"F","AmeriHealth Caritas Iowa","IA OASIS Certified",119,"24","Control",0,0,"9","Control",0,0,"SN","CC",8,2,8,0,0
+"165",165,205,80,"F","Medicare/NE","NE OASIS Certified",107,"24","Control",0,0,"11","Control",0,0,"SN","CC",8,6,4,0,0
+"166",166,240,76,"M","Medicare/NE","NE OASIS Certified",84,"24","Control",0,0,"10","Control",0,0,"SN","CC",13,11,4,0,0
+"167",167,294,47,"F","AmeriHealth Caritas Iowa","IA OASIS Certified",28,"24","Control",0,0,"24","Control",0,0,"SN","CC",12,1,13,0,0
+"168",168,282,58,"M","Medicare/NE","NE OASIS Certified",46,"24","Control",0,0,"24","Control",0,0,"SN","CC",14,11,5,0,0
+"169",169,180,80,"F","Humana Medicare HMO","NE OASIS Certified",40,"24","Control",0,0,"24","Control",0,0,"SN","CC",9,6,5,0,0
+"170",170,48,80,"M","Medicare/NE","NE OASIS Certified",83,"24","Control",0,0,"15","Control",0,0,"SN","CC",11,2,11,0,0
+"171",171,309,92,"F","UHC PPS Medicare Complete","NE OASIS Certified",24,"24","Control",0,0,"30","Control",0,0,"SN","CC",10,2,10,0,0
+"172",172,184,68,"F","UHC PPS Medicare Complete","NE OASIS Certified",29,"24","Control",0,0,"24","Control",0,0,"SN","CC",11,4,7,0,0
+"173",173,320,96,"F","Medicare/NE","NE OASIS Certified",21,"24","Control",0,0,"24","Control",0,0,"SN","CC",9,4,7,0,0
+"174",174,188,57,"F","AETNA Better Health","NE OASIS Certified",59,"24","Control",0,0,"24","Control",0,0,"SN","CC",12,10,4,0,0
+"175",175,338,68,"F","UHC PPS Medicare Complete","NE OASIS Certified",43,"24","Control",0,0,"23","Control",0,0,"SN","CC",13,2,13,0,0
+"176",176,244,82,"M","Medicare/NE","NE OASIS Certified",19,"24","Control",0,0,"9","Control",0,0,"SN","CC",9,7,4,0,0
+"177",177,289,73,"M","Medicare/NE","NE OASIS Certified",1,"24","Control",0,0,"24","Control",0,0,"SN","CC",11,4,9,0,0
+"178",178,193,61,"F","UHC PPS Medicare Complete","NE OASIS Certified",45,"24","Control",0,0,"24","Control",0,0,"SN","CC",11,4,9,0,0
+"179",179,190,49,"F","United Healthcare Community Plan","NE OASIS Certified",23,"24","Control",0,0,"24","Control",0,0,"SN","CC",13,6,9,0,0
+"180",180,409,70,"F","United Health Care","IA OASIS Certified",90,"24","Control",0,0,"23","Control",0,0,"SN","CC",10,4,8,0,0
+"181",181,228,87,"F","Medicare/NE","NE OASIS Certified",25,"24","Control",0,0,"4","Control",0,0,"SN","CC",10,6,6,0,0
+"182",182,416,85,"M","UHC PPS Medicare Complete","NE OASIS Certified",27,"24","Control",0,0,"12","Control",0,0,"SN","CC",7,0,9,0,0
+"183",183,419,45,"M","Advantra Iowa PPS","IA OASIS Certified",28,"24","Control",0,0,"2","Control",0,0,"SN","CC",13,4,11,0,0
+"184",184,734,89,"F","Medicare/NE","NE OASIS Certified",59,"24","Control",0,0,"4","Control",0,0,"SN","CC",10,6,6,0,0
+"185",185,445,70,"F","Medicare/NE","NE OASIS Certified",15,"24","Control",0,0,"12","Control",0,0,"SN","CC",9,0,11,0,0
+"186",186,454,76,"F","Medicare/NE","IA OASIS Certified",54,"24","Control",0,0,"9","Control",0,0,"SN","CC",14,9,7,0,0
+"187",187,428,87,"M","Advantra Nebraska PPS","NE OASIS Certified",9,"24","Control",0,0,"11","Control",0,0,"SN","CC",10,16,-1,0,0
+"188",188,2,97,"F","UHC PPS Medicare Complete","NE OASIS Certified",59,"24","Control",0,0,"21","Control",0,0,"SN","CC",14,10,6,0,0
+"189",189,253,56,"M","Wellmark BCBS Of IA","NE OASIS Certified",1,"24","Control",0,0,"24","Control",0,0,"SN","CC",12,9,5,0,0
+"190",190,291,93,"F","UHC PPS Medicare Complete","NE OASIS Certified",69,"11","Control",0,0,"11","Control",0,0,"SN","CC",10,6,6,0,0
+"191",191,326,97,"M","UHC PPS Medicare Complete","NE OASIS Certified",34,"11","Control",0,0,"13","Control",0,0,"SN","CC",11,6,7,0,0
+"192",192,331,57,"M","Medicaid/NE","NE OASIS Certified",57,"11","Control",0,0,"11","Control",0,0,"SN","CC",10,1,11,0,0
+"193",193,322,81,"F","UHC PPS Medicare Complete","NE OASIS Certified",36,"11","Control",0,0,"30","Control",0,0,"SN","CC",15,10,7,0,0
+"194",194,746,87,"M","Medicare/NE","NE OASIS Certified",27,"11","Control",0,0,"25","Control",0,0,"SN","CC",10,8,4,0,0
+"195",195,390,88,"M","Medicare/NE","NE OASIS Certified",21,"11","Control",0,0,"11","Control",0,0,"SN","CC",11,11,2,0,0
+"196",196,396,93,"M","UHC PPS Medicare Complete","NE OASIS Certified",37,"11","Control",0,0,"11","Control",0,0,"SN","CC",11,4,9,0,0
+"197",197,147,82,"M","Medicare/NE","NE OASIS Certified",41,"11","Control",0,0,"10","Control",0,0,"SN","CC",19,12,9,0,0
+"198",198,427,73,"F","Medicare/NE","NE OASIS Certified",20,"11","Control",0,0,"27","Control",0,0,"SN","CC",15,4,13,0,0
+"199",199,378,66,"F","Medicare/NE","NE OASIS Certified",39,"11","Control",0,0,"1","Control",0,0,"SN","CC",10,8,4,0,0
+"200",200,111,78,"F","Medicare/NE","NE OASIS Certified",3,"11","Control",0,0,"11","Control",0,0,"SN","CC",9,8,3,0,0
+"201",201,166,91,"F","Medicare/NE","NE OASIS Certified",22,"11","Control",0,0,"10","Control",0,0,"SN","CC",10,5,7,0,0
+"202",202,432,84,"F","Medicare/NE","NE OASIS Certified",13,"11","Control",0,0,"11","Control",0,0,"SN","CC",11,7,6,0,0
+"203",203,455,56,"F","Enrichment","NE OASIS Certified",57,"11","Control",0,0,"4","Control",0,0,"SN","CC",11,6,10,0,0
+"204",204,85,65,"F","UHC PPS Medicare Complete","NE OASIS Certified",7,"11","Control",0,0,"11","Control",0,0,"SN","CC",9,8,3,0,0
+"205",205,36,74,"F","Medicare/NE","NE OASIS Certified",10,"11","Control",0,0,"11","Control",0,0,"SN","CC",14,10,6,0,0
+"206",206,372,70,"M","Medicare/NE","NE OASIS Certified",9,"32","Control",0,0,"1","Control",0,0,"PT","CC",10,2,10,0,0
+"207",207,292,84,"F","UHC PPS Medicare Complete","NE OASIS Certified",47,"22","Control",0,0,"15","Control",0,0,"SN","CC",12,2,9,0,0
+"208",208,270,73,"F","UHC PPS Medicare Complete","NE OASIS Certified",102,"22","Control",0,0,"24","Control",0,0,"SN","CC",12,7,7,0,0
+"209",209,295,74,"F","Medicare/NE","NE OASIS Certified",47,"22","Control",0,0,"15","Control",0,0,"SN","CC",11,6,7,0,0
+"210",210,164,74,"M","Medicare/NE","NE OASIS Certified",48,"22","Control",0,0,"13","Control",0,0,"SN","CC",11,5,8,0,0
+"211",211,114,85,"F","Humana Medicare HMO","NE OASIS Certified",40,"22","Control",0,0,"10","Control",0,0,"SN","CC",11,8,5,0,0
+"212",212,18,69,"F","Medicare/NE","IA OASIS Certified",58,"22","Control",0,0,"7","Control",0,0,"SN","CC",11,7,7,0,0
+"213",213,247,73,"M","Medicare/NE","IA OASIS Certified",83,"22","Control",0,0,"7","Control",0,0,"SN","CC",12,4,10,0,0
+"214",214,207,87,"M","Medicare/NE","NE OASIS Certified",92,"22","Control",0,0,"9","Control",0,0,"SN","CC",10,3,9,0,0
+"215",215,305,54,"M","Enrichment","NE OASIS Certified",27,"22","Control",0,0,"7","Control",0,0,"SN","CC",14,2,14,0,0
+"216",216,42,80,"F","Advantra Iowa PPS","IA OASIS Certified",15,"22","Control",0,0,"9","Control",0,0,"SN","CC",14,2,14,0,0
+"217",217,330,72,"F","Medicare/NE","IA OASIS Certified",54,"22","Control",0,0,"7","Control",0,0,"SN","CC",12,3,11,0,0
+"218",218,334,83,"F","UHC PPS Medicare Complete","IA OASIS Certified",38,"22","Control",0,0,"7","Control",0,0,"SN","CC",12,3,11,0,0
+"219",219,197,90,"F","Medicare/NE","NE OASIS Certified",32,"22","Control",0,0,"13","Control",0,0,"SN","CC",11,8,5,0,0
+"220",220,336,89,"M","Medicare/NE","NE OASIS Certified",31,"22","Control",0,0,"7","Control",0,0,"SN","CC",13,1,14,0,0
+"221",221,231,75,"M","Medicare/NE","NE OASIS Certified",33,"22","Control",0,0,"10","Control",0,0,"SN","CC",15,5,12,0,0
+"222",222,345,71,"F","Medicare/NE","NE OASIS Certified",13,"22","Control",0,0,"12","Control",0,0,"SN","CC",9,0,11,0,0
+"223",223,349,57,"F","UHC PPS Medicare Complete","NE OASIS Certified",59,"22","Control",0,0,"26","Control",0,0,"SN","CC",10,5,7,0,0
+"224",224,346,53,"M","Amerigroup Iowa","IA OASIS Certified",18,"22","Control",0,0,"7","Control",0,0,"SN","CC",14,4,12,0,0
+"225",225,352,83,"M","Medicare/NE","IA OASIS Certified",10,"22","Control",0,0,"22","Control",0,0,"SN","CC",11,11,2,0,0
+"226",226,133,81,"M","Medicare/NE","NE OASIS Certified",17,"22","Control",0,0,"7","Control",0,0,"SN","CC",12,1,13,0,0
+"227",227,355,79,"F","Medicare/NE","IA OASIS Certified",26,"22","Control",0,0,"23","Control",0,0,"SN","CC",14,2,14,0,0
+"228",228,255,68,"M","VA PPS","NE OASIS Certified",58,"22","Control",0,0,"4","Control",0,0,"SN","CC",17,11,8,0,0
+"229",229,153,87,"F","Medicare/NE","NE OASIS Certified",48,"22","Control",0,0,"7","Control",0,0,"SN","CC",12,7,7,0,0
+"230",230,364,92,"F","Medicare/NE","NE OASIS Certified",24,"22","Control",0,0,"25","Control",0,0,"SN","CC",10,8,4,0,0
+"231",231,100,75,"M","UHC PPS Medicare Complete","NE OASIS Certified",21,"22","Control",0,0,"13","Control",0,0,"SN","CC",13,12,3,0,0
+"232",232,360,70,"M","Medicare/NE","NE OASIS Certified",13,"22","Control",0,0,"1","Control",0,0,"SN","CC",14,5,11,0,0
+"233",233,14,49,"F","UHC PPS Medicare Complete","IA OASIS Certified",44,"22","Control",0,0,"7","Control",0,0,"SN","CC",13,0,15,0,0
+"234",234,110,59,"F","Advantra Iowa PPS","IA OASIS Certified",27,"22","Control",0,0,"7","Control",0,0,"SN","CC",14,2,14,0,0
+"235",235,27,60,"F","Advantra Nebraska PPS","NE OASIS Certified",27,"22","Control",0,0,"8","Control",0,0,"SN","CC",11,2,11,0,0
+"236",236,261,65,"F","Medicare/NE","IA OASIS Certified",30,"22","Control",0,0,"7","Control",0,0,"SN","CC",11,6,7,0,0
+"237",237,392,73,"F","Medicare/NE","IA OASIS Certified",25,"22","Control",0,0,"9","Control",0,0,"SN","CC",10,5,7,0,0
+"238",238,393,83,"F","Advantra Nebraska PPS","NE OASIS Certified",41,"22","Control",0,0,"31","Control",0,0,"SN","CC",11,4,9,0,0
+"239",239,394,61,"F","AETNA Better Health","NE OASIS Certified",25,"22","Control",0,0,"25","Control",0,0,"SN","CC",11,5,8,0,0
+"240",240,76,56,"F","Medicare/NE","NE OASIS Certified",59,"22","Control",0,0,"25","Control",0,0,"SN","CC",16,12,6,0,0
+"241",241,415,75,"F","UHC PPS Medicare Complete","NE OASIS Certified",25,"22","Control",0,0,"14","Control",0,0,"SN","CC",12,7,7,0,0
+"242",242,417,82,"F","UHC PPS Medicare Complete","NE OASIS Certified",24,"22","Control",0,0,"13","Control",0,0,"SN","CC",11,2,11,0,0
+"243",243,425,51,"F","Medicare/NE","NE OASIS Certified",39,"22","Control",0,0,"12","Control",0,0,"SN","CC",17,13,6,0,0
+"244",244,53,83,"F","Medicare/NE","IA OASIS Certified",59,"22","Control",0,0,"7","Control",0,0,"SN","CC",12,8,7,0,0
+"245",245,22,91,"F","Advantra Nebraska PPS","NE OASIS Certified",29,"22","Control",0,0,"13","Control",0,0,"SN","CC",12,5,9,0,0
+"246",246,149,65,"F","Medicare/NE","IA OASIS Certified",28,"22","Control",0,0,"7","Control",0,0,"SN","CC",14,4,12,0,0
+"247",247,467,58,"F","Medicare/NE","NE OASIS Certified",46,"22","Control",0,0,"13","Control",0,0,"SN","CC",11,2,11,0,0
+"248",248,468,70,"F","Medicare/NE","NE OASIS Certified",43,"22","Control",0,0,"4","Control",0,0,"SN","CC",12,11,3,0,0
+"249",249,284,60,"F","UHC PPS Medicare Complete","IA OASIS Certified",42,"4","Control",0,0,"2","Control",0,0,"SN","CC",17,2,14,0,0
+"250",250,306,84,"M","Humana Medicare HMO","NE OASIS Certified",23,"4","Control",0,0,"4","Control",0,0,"SN","CC",11,4,9,0,0
+"251",251,138,93,"F","Advantra Nebraska PPS","NE OASIS Certified",23,"4","Control",0,0,"4","Control",0,0,"SN","CC",11,6,7,0,0
+"252",252,311,77,"F","Advantra Nebraska PPS","NE OASIS Certified",37,"4","Control",0,0,"4","Control",0,0,"SN","CC",16,11,7,0,0
+"253",253,312,66,"F","UnitedHealthcare River Valley Iowa","IA OASIS Certified",58,"4","Control",0,0,"24","Control",0,0,"SN","CC",11,6,7,0,0
+"254",254,319,29,"M","Enrichment","NE OASIS Certified",29,"4","Control",0,0,"7","Control",0,0,"SN","CC",12,1,13,0,0
+"255",255,7,63,"F","Medicare/NE","NE OASIS Certified",20,"4","Control",0,0,"4","Control",0,0,"SN","CC",17,8,11,0,0
+"256",256,116,67,"F","BCBS Of Nebraska","IA OASIS Certified",18,"4","Control",0,0,"8","Control",0,0,"SN","CC",16,3,15,0,0
+"257",257,743,92,"F","UHC PPS Medicare Complete","NE OASIS Certified",36,"4","Control",0,0,"8","Control",0,0,"SN","CC",11,4,9,0,0
+"258",258,121,75,"F","Medicare/NE","NE OASIS Certified",14,"4","Control",0,0,"4","Control",0,0,"SN","CC",11,5,8,0,0
+"259",259,397,56,"M","Medicare/NE","NE OASIS Certified",34,"4","Control",0,0,"4","Control",0,0,"SN","CC",15,7,10,0,0
+"260",260,406,66,"M","Humana Medicare HMO","NE OASIS Certified",21,"4","Control",0,0,"4","Control",0,0,"SN","CC",12,7,7,0,0
+"261",261,439,78,"F","UHC PPS Medicare Complete","NE OASIS Certified",27,"4","Control",0,0,"12","Control",0,0,"SN","CC",11,5,8,0,0
+"262",262,124,83,"F","Medicare/NE","NE OASIS Certified",19,"4","Control",0,0,"4","Control",0,0,"SN","CC",11,7,6,0,0
+"263",263,171,77,"M","UHC PPS Medicare Complete","NE OASIS Certified",20,"4","Control",0,0,"4","Control",0,0,"SN","CC",11,8,5,0,0
+"264",264,276,78,"F","Medicare/NE","IA OASIS Certified",39,"2","Control",0,0,"2","Control",0,0,"PT","CC",11,3,10,0,0
+"265",265,337,87,"M","Medicare/NE","IA OASIS Certified",40,"2","Control",0,0,"2","Control",0,0,"PT","CC",8,6,4,0,0
+"266",266,26,74,"F","UHC PPS Medicare Complete","NE OASIS Certified",49,"2","Control",0,0,"2","Control",0,0,"PT","CC",10,4,8,0,0
+"267",267,45,83,"F","Medicare/NE","IA OASIS Certified",24,"2","Control",0,0,"2","Control",0,0,"PT","CC",8,4,6,0,0
+"268",268,186,72,"M","Medicare/NE","IA OASIS Certified",57,"2","Control",0,0,"2","Control",0,0,"PT","CC",12,4,10,0,0
+"269",269,59,62,"F","Medicare/NE","IA OASIS Certified",57,"2","Control",0,0,"2","Control",0,0,"PT","CC",8,3,7,0,0
+"270",270,435,82,"M","Medicare/NE","NE OASIS Certified",37,"2","Control",0,0,"10","Control",0,0,"PT","CC",9,4,7,0,0
+"271",271,11,68,"F","Medicare/NE","NE OASIS Certified",96,"1","Control",0,0,"1","Control",0,0,"PT","CC",12,3,8,0,0
+"272",272,285,78,"F","UHC PPS Medicare Complete","NE OASIS Certified",50,"1","Control",0,0,"1","Control",0,0,"PT","CC",11,7,6,0,0
+"273",273,303,56,"M","Humana Medicare HMO","NE OASIS Certified",31,"1","Control",0,0,"1","Control",0,0,"PT","CC",13,4,8,0,0
+"274",274,35,78,"F","UHC PPS Medicare Complete","NE OASIS Certified",39,"1","Control",0,0,"24","Control",0,0,"PT","CC",11,5,8,0,0
+"275",275,81,82,"F","UHC PPS Medicare Complete","NE OASIS Certified",39,"1","Control",0,0,"25","Control",0,0,"PT","CC",9,7,4,0,0
+"276",276,343,86,"M","Medicare/NE","NE OASIS Certified",52,"1","Control",0,0,"1","Control",0,0,"PT","CC",12,11,3,0,0
+"277",277,65,59,"F","Medicare/NE","IA OASIS Certified",55,"1","Control",0,0,"2","Control",0,0,"PT","CC",10,2,10,0,0
+"278",278,351,74,"M","Medicare/NE","NE OASIS Certified",24,"1","Control",0,0,"1","Control",0,0,"PT","CC",10,3,9,0,0
+"279",279,177,84,"F","Medicare/NE","NE OASIS Certified",55,"1","Control",0,0,"30","Control",0,0,"PT","CC",13,2,13,0,0
+"280",280,374,87,"F","Medicare/NE","NE OASIS Certified",6,"1","Control",0,0,"15","Control",0,0,"PT","CC",8,3,7,0,0
+"281",281,375,45,"M","Medicare/NE","NE OASIS Certified",17,"1","Control",0,0,"1","Control",0,0,"PT","CC",6,0,8,0,0
+"282",282,385,78,"M","Medicare/NE","NE OASIS Certified",15,"1","Control",0,0,"1","Control",0,0,"PT","CC",15,4,10,0,0
+"283",283,210,82,"M","Medicare/NE","NE OASIS Certified",24,"1","Control",0,0,"19","Control",0,0,"PT","CC",12,10,4,0,0
+"284",284,144,85,"F","Humana Medicare HMO","NE OASIS Certified",22,"1","Control",0,0,"1","Control",0,0,"PT","CC",10,5,7,0,0
+"285",285,183,97,"F","Medicare/NE","NE OASIS Certified",35,"1","Control",0,0,"10","Control",0,0,"PT","CC",11,8,5,0,0
+"286",286,410,88,"F","Medicare/NE","NE OASIS Certified",28,"1","Control",0,0,"1","Control",0,0,"PT","CC",11,4,9,0,0
+"287",287,418,81,"F","Medicare/NE","NE OASIS Certified",78,"1","Control",0,0,"15","Control",0,0,"PT","CC",11,2,11,0,0
+"288",288,80,87,"M","Medicare/NE","NE OASIS Certified",59,"1","Control",0,0,"19","Control",0,0,"PT","CC",13,7,8,0,0
+"289",289,407,46,"F","UnitedHealthcare River Valley Iowa","IA OASIS Certified",16,"1","Control",0,0,"2","Control",0,0,"PT","CC",10,0,12,0,0
+"290",290,436,91,"M","Humana Medicare PPO","NE OASIS Certified",19,"1","Control",0,0,"1","Control",0,0,"PT","CC",10,3,9,0,0
+"291",291,440,78,"F","Medicare/NE","IA OASIS Certified",38,"1","Control",0,0,"2","Control",0,0,"PT","CC",11,6,7,0,0
+"292",292,224,89,"M","Medicare/NE","NE OASIS Certified",51,"1","Control",0,0,"12","Control",0,0,"PT","CC",11,7,6,0,0
+"293",293,213,61,"M","Medicare/NE","NE OASIS Certified",234,"6","Control",0,0,"14","Control",0,0,"SN","CC",14,3,13,0,0
+"294",294,146,60,"M","AETNA","NE OASIS Certified",75,"6","Control",0,0,"14","Control",0,0,"SN","CC",13,6,9,0,0
+"295",295,286,53,"M","Workers Compensation","NE OASIS Certified",178,"6","Control",0,0,"29","Control",0,0,"SN","CC",19,18,3,0,0
+"296",296,296,47,"F","Enrichment","NE OASIS Certified",38,"6","Control",0,0,"12","Control",0,0,"SN","CC",14,14,2,0,0
+"297",297,293,74,"M","Medicare/NE","NE OASIS Certified",32,"6","Control",0,0,"30","Control",0,0,"SN","CC",11,3,10,0,0
+"298",298,302,65,"M","Medicare/NE","NE OASIS Certified",27,"6","Control",0,0,"15","Control",0,0,"SN","CC",11,4,9,0,0
+"299",299,304,69,"M","Medicare/NE","NE OASIS Certified",46,"6","Control",0,0,"29","Control",0,0,"SN","CC",12,7,7,0,0
+"300",300,173,66,"M","UHC PPS Medicare Complete","NE OASIS Certified",56,"6","Control",0,0,"24","Control",0,0,"SN","CC",17,6,13,0,0
+"301",301,314,43,"M","Medicare/NE","NE OASIS Certified",38,"6","Control",0,0,"15","Control",0,0,"SN","CC",11,6,7,0,0
+"302",302,321,88,"M","UHC PPS Medicare Complete","NE OASIS Certified",107,"6","Control",0,0,"15","Control",0,0,"SN","CC",12,3,11,0,0
+"303",303,63,94,"M","Medicare/NE","NE OASIS Certified",32,"6","Control",0,0,"12","Control",0,0,"SN","CC",9,7,4,0,0
+"304",304,340,69,"F","Medicare/NE","NE OASIS Certified",32,"6","Control",0,0,"10","Control",0,0,"SN","CC",10,1,11,0,0
+"305",305,341,85,"F","AETNA Better Health","NE OASIS Certified",78,"6","Control",0,0,"24","Control",0,0,"SN","CC",9,8,3,0,0
+"306",306,175,67,"M","UHC PPS Medicare Complete","NE OASIS Certified",46,"6","Control",0,0,"27","Control",0,0,"SN","CC",14,8,8,0,0
+"307",307,365,50,"F","Medicare/NE","NE OASIS Certified",20,"6","Control",0,0,"3","Control",0,0,"SN","CC",14,3,13,0,0
+"308",308,140,67,"F","Medicare/NE","NE OASIS Certified",20,"6","Control",0,0,"30","Control",0,0,"SN","CC",10,2,10,0,0
+"309",309,358,88,"M","UHC PPS Medicare Complete","NE OASIS Certified",24,"6","Control",0,0,"10","Control",0,0,"SN","CC",15,2,15,0,0
+"310",310,373,65,"F","Medicare/NE","NE OASIS Certified",32,"6","Control",0,0,"9","Control",0,0,"SN","CC",9,6,5,0,0
+"311",311,264,73,"F","Medicare/NE","NE OASIS Certified",38,"6","Control",0,0,"31","Control",0,0,"SN","CC",10,8,4,0,0
+"312",312,256,86,"F","Medicare/NE","NE OASIS Certified",27,"6","Control",0,0,"12","Control",0,0,"SN","CC",12,3,11,0,0
+"313",313,281,45,"F","Medicare/NE","NE OASIS Certified",52,"6","Control",0,0,"15","Control",0,0,"SN","CC",9,3,8,0,0
+"314",314,402,79,"F","Medicare/NE","NE OASIS Certified",32,"6","Control",0,0,"10","Control",0,0,"SN","CC",13,5,10,0,0
+"315",315,10,58,"F","Advantra Nebraska PPS","NE OASIS Certified",47,"6","Control",0,0,"9","Control",0,0,"SN","CC",11,1,12,0,0
+"316",316,413,34,"F","Medicare/NE","NE OASIS Certified",17,"6","Control",0,0,"3","Control",0,0,"SN","CC",17,2,14,0,0
+"317",317,423,88,"F","UHC PPS Medicare Complete","NE OASIS Certified",30,"6","Control",0,0,"15","Control",0,0,"SN","CC",9,2,9,0,0
+"318",318,449,58,"F","Medicare/NE","IA OASIS Certified",12,"6","Control",0,0,"14","Control",0,0,"SN","CC",10,8,4,0,0
+"319",319,442,66,"F","Medicare/NE","NE OASIS Certified",19,"6","Control",0,0,"3","Control",0,0,"SN","CC",11,2,11,0,0
+"320",320,77,56,"F","Advantra Nebraska PPS","NE OASIS Certified",18,"6","Control",0,0,"12","Control",0,0,"SN","CC",13,5,10,0,0
+"321",321,443,43,"F","Medicare/NE","NE OASIS Certified",54,"6","Control",0,0,"11","Control",0,0,"SN","CC",9,1,10,0,0
+"322",322,466,74,"F","UHC PPS Medicare Complete","NE OASIS Certified",35,"6","Control",0,0,"17","Control",0,0,"SN","CC",13,6,9,0,0
+"323",323,463,80,"M","Medicare/NE","NE OASIS Certified",39,"6","Control",0,0,"11","Control",0,0,"SN","CC",9,5,6,0,0
+"324",324,742,90,"F","Medicare/NE","IA OASIS Certified",38,"6","Control",0,0,"7","Control",0,0,"SN","CC",11,5,8,0,0
+"325",325,324,70,"F","Medicare/NE","NE OASIS Certified",34,"6","Control",0,0,"12","Control",0,0,"SN","CC",9,2,9,0,0
+"326",326,102,88,"M","Humana Medicare HMO","NE OASIS Certified",57,"6","Control",0,0,"11","Control",0,0,"SN","CC",10,7,5,0,0
+"327",327,129,79,"F","Medicare/NE","NE OASIS Certified",31,"6","Control",0,0,"13","Control",0,0,"SN","CC",8,8,2,0,0
+"328",328,481,31,"F","AETNA Better Health","NE OASIS Certified",20,"6","Control",0,0,"13","Control",0,0,"SN","CC",12,1,13,0,0
+"329",329,483,96,"F","UHC PPS Medicare Complete","NE OASIS Certified",25,"6","Control",0,0,"11","Control",0,0,"SN","CC",10,9,3,0,0
+"330",330,236,84,"M","Advantra Nebraska PPS","NE OASIS Certified",32,"6","Control",0,0,"17","Control",0,0,"SN","CC",4,0,6,0,0
+"331",331,492,85,"M","Medicare/NE","NE OASIS Certified",37,"6","Control",0,0,"1","Control",0,0,"SN","CC",9,8,3,0,0
+"332",332,103,96,"F","Medicare/NE","NE OASIS Certified",27,"6","Control",0,0,"21","Control",0,0,"SN","CC",11,5,8,0,0
+"333",333,259,64,"F","Medicare/NE","NE OASIS Certified",13,"6","Control",0,0,"1","Control",0,0,"SN","CC",10,4,8,0,0
+"334",334,504,55,"M","United Healthcare Community Plan","NE OASIS Certified",39,"6","Control",0,0,"17","Control",0,0,"SN","CC",9,7,4,0,0
+"335",335,151,40,"F","Medicare/NE","IA OASIS Certified",174,"7","Control",0,0,"7","Control",0,0,"SN","CC",12,6,8,0,0
+"336",336,356,66,"M","Medicare/NE","NE OASIS Certified",55,"7","Control",0,0,"7","Control",0,0,"SN","CC",11,0,13,0,0
+"337",337,421,34,"F","Medicare/NE","NE OASIS Certified",4,"7","Control",0,0,"7","Control",0,0,"SN","CC",12,7,7,0,0
+"338",338,54,58,"F","Medicare/NE","IA OASIS Certified",57,"7","Control",0,0,"7","Control",0,0,"SN","CC",9,6,5,0,0
+"339",339,446,81,"M","Medicare/NE","NE OASIS Certified",27,"7","Control",0,0,"7","Control",0,0,"SN","CC",13,1,14,0,0
+"340",340,451,43,"M","Enrichment","NE OASIS Certified",55,"7","Control",0,0,"7","Control",0,0,"SN","CC",14,1,15,0,0
+"341",341,178,68,"F","Medicare/NE","IA OASIS Certified",29,"7","Control",0,0,"7","Control",0,0,"SN","CC",12,7,7,0,0
+"342",342,479,75,"F","Medicare/NE","NE OASIS Certified",33,"5","Control",0,0,"27","Control",0,0,"SN","CC",12,1,13,0,0
+"343",343,134,77,"F","Medicare/NE","NE OASIS Certified",29,"5","Control",0,0,"14","Control",0,0,"SN","CC",10,4,8,0,0
+"344",344,482,96,"F","Medicare/NE","NE OASIS Certified",36,"5","Control",0,0,"4","Control",0,0,"SN","CC",9,3,8,0,0
+"345",345,491,65,"M","BCBS Of Nebraska","IA OASIS Certified",30,"5","Control",0,0,"7","Control",0,0,"SN","CC",15,4,13,0,0
+"346",346,517,72,"M","Medicare/NE","NE OASIS Certified",24,"5","Control",0,0,"17","Control",0,0,"SN","CC",16,9,9,0,0
+"347",347,1,63,"F","AETNA Better Health","NE OASIS Certified",11,"5","Control",0,0,"4","Control",0,0,"SN","CC",9,2,9,0,0
+"348",348,520,53,"F","AETNA Better Health","NE OASIS Certified",17,"5","Control",0,0,"17","Control",0,0,"SN","CC",9,2,9,0,0
+"349",349,526,74,"F","Medicare/NE","NE OASIS Certified",16,"5","Control",0,0,"17","Control",0,0,"SN","CC",11,3,10,0,0
+"350",350,61,64,"M","Nebraska Total Care","NE OASIS Certified",39,"5","Control",0,0,"14","Trained",22.6066666666667,1,"SN","CT",13,2,13,22.6066666666667,1
+"351",351,536,66,"F","UHC PPS Medicare Complete","NE OASIS Certified",118,"5","Control",0,0,"14","Trained",22.6066666666667,1,"SN","CT",13,1,14,22.6066666666667,1
+"352",352,543,92,"M","Medicare/NE","NE OASIS Certified",27,"5","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",10,10,2,38.3626666666667,5
+"353",353,542,63,"M","Advantra Nebraska PPS","NE OASIS Certified",12,"5","Control",0,0,"15","Control",0,0,"SN","CC",12,2,12,0,0
+"354",354,548,66,"F","Medicare/NE","NE OASIS Certified",31,"5","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",9,5,6,33.1061594202899,38
+"355",355,12,76,"F","Medicare/NE","NE OASIS Certified",31,"5","Control",0,0,"14","Trained",22.6066666666667,1,"SN","CT",11,5,8,22.6066666666667,1
+"356",356,558,92,"M","Medicare/NE","NE OASIS Certified",88,"5","Control",0,0,"17","Trained",42.1933333333333,1,"SN","CT",10,1,11,42.1933333333333,1
+"357",357,70,87,"F","Medicare/NE","NE OASIS Certified",49,"5","Control",0,0,"17","Trained",42.1933333333333,1,"SN","CT",10,9,3,42.1933333333333,1
+"358",358,452,72,"M","Medicare/NE","NE OASIS Certified",20,"5","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",10,9,3,38.3626666666667,5
+"359",359,229,83,"M","UHC PPS Medicare Complete","NE OASIS Certified",25,"5","Control",0,0,"12","Trained",0.478333333333333,1,"SN","CT",10,6,6,0.478333333333333,1
+"360",360,567,81,"M","United Health Care","NE OASIS Certified",16,"5","Control",0,0,"15","Control",0,0,"SN","CC",11,0,13,0,0
+"361",361,217,89,"F","Medicare/NE","NE OASIS Certified",40,"5","Control",0,0,"20","Control",0,0,"SN","CC",10,3,9,0,0
+"362",362,611,49,"M","United Healthcare Community Plan","NE OASIS Certified",12,"5","Control",0,0,"13","Control",0,0,"SN","CC",8,0,10,0,0
+"363",363,608,82,"F","Medicare/NE","NE OASIS Certified",58,"5","Control",0,0,"17","Trained",42.1933333333333,1,"SN","CT",10,6,6,42.1933333333333,1
+"364",364,622,55,"F","UHC PPS Medicare Complete","NE OASIS Certified",100,"5","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",10,0,12,38.3626666666667,5
+"365",365,527,74,"M","Humana Medicare HMO","NE OASIS Certified",37,"5","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",10,6,6,38.3626666666667,5
+"366",366,632,74,"F","UHC PPS Medicare Complete","NE OASIS Certified",59,"5","Control",0,0,"12","Trained",0.478333333333333,1,"SN","CT",9,9,2,0.478333333333333,1
+"367",367,637,95,"M","Medicare/NE","NE OASIS Certified",59,"5","Control",0,0,"20","Control",0,0,"SN","CC",13,7,8,0,0
+"368",368,642,76,"M","Medicare/NE","NE OASIS Certified",14,"5","Control",0,0,"30","Control",0,0,"SN","CC",13,3,12,0,0
+"369",369,649,71,"F","UHC PPS Medicare Complete","NE OASIS Certified",15,"5","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",9,4,7,38.3626666666667,5
+"370",370,91,83,"F","UHC PPS Medicare Complete","NE OASIS Certified",24,"5","Control",0,0,"14","Trained",22.6066666666667,1,"SN","CT",11,4,9,22.6066666666667,1
+"371",371,148,86,"F","UHC PPS Medicare Complete","NE OASIS Certified",40,"5","Control",0,0,"17","Trained",42.1933333333333,1,"SN","CT",11,5,8,42.1933333333333,1
+"372",372,694,78,"F","Coventry Health Care","NE OASIS Certified",31,"5","Control",0,0,"12","Trained",0.478333333333333,1,"SN","CT",10,6,6,0.478333333333333,1
+"373",373,697,68,"M","Medicare/NE","NE OASIS Certified",32,"5","Control",0,0,"15","Control",0,0,"SN","CC",11,5,8,0,0
+"374",374,142,78,"F","Medicare/NE","NE OASIS Certified",39,"5","Control",0,0,"20","Control",0,0,"SN","CC",10,1,11,0,0
+"375",375,194,76,"F","UHC PPS Medicare Complete","NE OASIS Certified",49,"1","Control",0,0,"21","Control",0,0,"PT","CC",11,8,5,0,0
+"376",376,470,85,"F","Medicare/NE","NE OASIS Certified",22,"1","Control",0,0,"1","Control",0,0,"PT","CC",12,3,11,0,0
+"377",377,3,84,"F","Medicare/NE","NE OASIS Certified",52,"1","Control",0,0,"32","Control",0,0,"PT","CC",15,7,10,0,0
+"378",378,496,68,"F","Medicare/NE","NE OASIS Certified",21,"1","Control",0,0,"1","Control",0,0,"PT","CC",18,3,17,0,0
+"379",379,503,80,"F","UHC PPS Medicare Complete","NE OASIS Certified",27,"1","Control",0,0,"1","Control",0,0,"PT","CC",12,3,11,0,0
+"380",380,274,88,"F","Humana Medicare PPO","NE OASIS Certified",27,"1","Control",0,0,"15","Control",0,0,"PT","CC",9,2,9,0,0
+"381",381,500,63,"M","Self Pay","NE OASIS Certified",18,"1","Control",0,0,"1","Control",0,0,"PT","CC",11,2,11,0,0
+"382",382,538,55,"F","BCBS Of Nebraska","NE OASIS Certified",12,"1","Trained",31.0271904761905,33,"31","Control",0,0,"PT","TC",9,5,6,31.0271904761905,33
+"383",383,549,82,"F","Medicare/NE","NE OASIS Certified",14,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",12,1,13,62.054380952381,66
+"384",384,561,77,"F","Medicare/NE","NE OASIS Certified",16,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",13,6,9,62.054380952381,66
+"385",385,574,88,"M","Medicare/NE","NE OASIS Certified",43,"1","Trained",31.0271904761905,33,"31","Control",0,0,"PT","TC",13,7,8,31.0271904761905,33
+"386",386,577,62,"M","BCBS Of Nebraska","NE OASIS Certified",11,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",15,8,9,62.054380952381,66
+"387",387,534,85,"F","Advantra Nebraska PPS","NE OASIS Certified",56,"1","Trained",31.0271904761905,33,"11","Trained",28.2983333333333,3,"PT","TT",15,4,13,59.3255238095238,36
+"388",388,585,61,"M","Medicare/NE","NE OASIS Certified",54,"1","Trained",31.0271904761905,33,"20","Control",0,0,"PT","TC",15,5,12,31.0271904761905,33
+"389",389,310,89,"M","Medicare/NE","NE OASIS Certified",42,"1","Trained",31.0271904761905,33,"12","Trained",0.478333333333333,1,"PT","TT",11,3,10,31.5055238095238,34
+"390",390,598,88,"F","Medicare/NE","NE OASIS Certified",26,"1","Trained",31.0271904761905,33,"15","Control",0,0,"PT","TC",8,5,5,31.0271904761905,33
+"391",391,610,88,"F","Medicare/NE","NE OASIS Certified",118,"1","Trained",31.0271904761905,33,"17","Trained",42.1933333333333,1,"PT","TT",15,3,14,73.2205238095238,34
+"392",392,241,94,"F","Medicare/NE","NE OASIS Certified",39,"1","Trained",31.0271904761905,33,"15","Control",0,0,"PT","TC",11,6,7,31.0271904761905,33
+"393",393,250,83,"F","Medicare/NE","NE OASIS Certified",35,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",8,6,4,62.054380952381,66
+"394",394,618,77,"F","Medicare/NE","NE OASIS Certified",97,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",12,2,12,62.054380952381,66
+"395",395,616,72,"F","Medicare/NE","NE OASIS Certified",11,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",11,2,11,62.054380952381,66
+"396",396,530,96,"F","UHC PPS Medicare Complete","NE OASIS Certified",28,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",9,4,7,62.054380952381,66
+"397",397,131,74,"F","Medicare/NE","NE OASIS Certified",14,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",11,4,9,62.054380952381,66
+"398",398,641,76,"M","UHC PPS Medicare Complete","NE OASIS Certified",42,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",13,3,12,62.054380952381,66
+"399",399,437,78,"F","Medicare/NE","IA OASIS Certified",26,"9","Control",0,0,"2","Control",0,0,"SN","CC",6,2,6,0,0
+"400",400,458,67,"M","Medicare/NE","IA OASIS Certified",22,"9","Control",0,0,"2","Control",0,0,"SN","CC",14,2,14,0,0
+"401",401,465,76,"F","Humana Medicare HMO","NE OASIS Certified",33,"9","Control",0,0,"9","Control",0,0,"SN","CC",10,2,10,0,0
+"402",402,141,81,"M","Advantra Nebraska PPS","NE OASIS Certified",20,"9","Control",0,0,"9","Control",0,0,"SN","CC",14,8,2,0,0
+"403",403,464,79,"F","UHC PPS Medicare Complete","NE OASIS Certified",36,"9","Control",0,0,"31","Control",0,0,"SN","CC",12,5,9,0,0
+"404",404,484,52,"M","Blue Tier Select","IA OASIS Certified",15,"9","Control",0,0,"9","Control",0,0,"SN","CC",12,4,10,0,0
+"405",405,235,72,"M","United Healthcare Community Plan","NE OASIS Certified",28,"9","Control",0,0,"13","Control",0,0,"SN","CC",11,0,13,0,0
+"406",406,513,62,"F","United Healthcare Community Plan","NE OASIS Certified",7,"9","Control",0,0,"11","Control",0,0,"SN","CC",11,4,9,0,0
+"407",407,531,83,"F","Medicare/NE","IA OASIS Certified",11,"9","Control",0,0,"9","Control",0,0,"SN","CC",9,5,6,0,0
+"408",408,539,58,"M","UnitedHealthcare River Valley Iowa","IA OASIS Certified",75,"9","Trained",24.1883333333333,0,"9","Trained",24.1883333333333,0,"SN","TT",10,7,5,48.3766666666667,0
+"409",409,629,70,"F","Advantra Iowa PPS","IA OASIS Certified",13,"9","Trained",24.1883333333333,0,"23","Trained",34.1916111111111,27,"SN","TT",10,7,5,58.3799444444444,27
+"410",410,628,76,"F","Medicare/NE","IA OASIS Certified",26,"9","Trained",24.1883333333333,0,"28","Control",0,0,"SN","TC",7,6,3,24.1883333333333,0
+"411",411,458,67,"M","Medicare/NE","IA OASIS Certified",14,"9","Trained",24.1883333333333,0,"2","Trained",25.4658333333333,4,"SN","TT",14,7,9,49.6541666666667,4
+"412",412,453,96,"F","Medicare/NE","NE OASIS Certified",20,"13","Control",0,0,"13","Control",0,0,"SN","CC",9,3,8,0,0
+"413",413,288,89,"F","UHC PPS Medicare Complete","NE OASIS Certified",35,"13","Control",0,0,"13","Control",0,0,"SN","CC",7,1,8,0,0
+"414",414,488,94,"F","Medicare/NE","NE OASIS Certified",54,"13","Control",0,0,"27","Control",0,0,"SN","CC",7,4,5,0,0
+"415",415,512,74,"F","Medicare/NE","NE OASIS Certified",30,"13","Control",0,0,"13","Control",0,0,"SN","CC",10,0,12,0,0
+"416",416,523,54,"M","Sliding Fee","NE OASIS Certified",22,"13","Control",0,0,"13","Control",0,0,"SN","CC",14,1,15,0,0
+"417",417,37,70,"F","UHC PPS Medicare Complete","NE OASIS Certified",28,"13","Control",0,0,"25","Trained",15.37,0,"SN","CT",11,5,8,15.37,0
+"418",418,199,74,"F","United Healthcare Community Plan","NE OASIS Certified",12,"13","Control",0,0,"27","Trained",30.4908333333333,3,"SN","CT",12,3,8,30.4908333333333,3
+"419",419,206,95,"F","Medicare/NE","NE OASIS Certified",48,"13","Control",0,0,"25","Trained",15.37,0,"SN","CT",9,6,5,15.37,0
+"420",420,590,58,"F","Nebraska Total Care","NE OASIS Certified",11,"13","Control",0,0,"13","Control",0,0,"SN","CC",8,4,6,0,0
+"421",421,594,58,"M","Medicare/NE","NE OASIS Certified",10,"13","Control",0,0,"13","Control",0,0,"SN","CC",12,4,10,0,0
+"422",422,625,83,"F","Medicare/NE","NE OASIS Certified",18,"13","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",10,8,4,28.2983333333333,3
+"423",423,460,96,"F","Medicare/NE","NE OASIS Certified",35,"3","Control",0,0,"3","Control",0,0,"SN","CC",7,2,7,0,0
+"424",424,478,50,"M","Medicare/NE","NE OASIS Certified",14,"3","Control",0,0,"3","Control",0,0,"SN","CC",10,2,10,0,0
+"425",425,359,50,"M","Enrichment","NE OASIS Certified",39,"3","Control",0,0,"3","Control",0,0,"SN","CC",7,0,9,0,0
+"426",426,547,37,"F","Self Pay","NE OASIS Certified",15,"3","Trained",33.1061594202899,38,"3","Trained",33.1061594202899,38,"SN","TT",5,1,6,66.2123188405797,76
+"427",427,279,85,"M","Medicare/NE","NE OASIS Certified",11,"3","Trained",33.1061594202899,38,"11","Trained",28.2983333333333,3,"SN","TT",11,3,10,61.4044927536232,41
+"428",428,551,73,"M","Advantra Iowa PPS","IA OASIS Certified",30,"3","Trained",33.1061594202899,38,"3","Trained",33.1061594202899,38,"SN","TT",8,4,6,66.2123188405797,76
+"429",429,557,87,"F","Medicare/NE","NE OASIS Certified",33,"3","Trained",33.1061594202899,38,"8","Trained",33.4760328638498,62,"SN","TT",11,5,8,66.5821922841396,100
+"430",430,78,82,"M","UHC PPS Medicare Complete","NE OASIS Certified",31,"3","Trained",33.1061594202899,38,"8","Trained",33.4760328638498,62,"SN","TT",11,5,8,66.5821922841396,100
+"431",431,485,62,"F","United Health Care","NE OASIS Certified",119,"3","Trained",33.1061594202899,38,"25","Trained",15.37,0,"SN","TT",11,3,10,48.4761594202899,38
+"432",432,580,61,"M","Sliding Fee","NE OASIS Certified",21,"3","Trained",33.1061594202899,38,"3","Trained",33.1061594202899,38,"SN","TT",9,1,10,66.2123188405797,76
+"433",433,226,34,"F","Nebraska Total Care","NE OASIS Certified",42,"3","Trained",33.1061594202899,38,"3","Trained",33.1061594202899,38,"SN","TT",9,2,9,66.2123188405797,76
+"434",434,679,22,"M","United Health Care","NE OASIS Certified",12,"3","Trained",33.1061594202899,38,"3","Trained",33.1061594202899,38,"SN","TT",11,1,12,66.2123188405797,76
+"435",435,703,63,"M","Self Pay","IA OASIS Certified",9,"3","Trained",33.1061594202899,38,"25","Trained",15.37,0,"SN","TT",14,6,10,48.4761594202899,38
+"436",436,743,92,"F","UHC PPS Medicare Complete","NE OASIS Certified",26,"3","Trained",33.1061594202899,38,"3","Trained",33.1061594202899,38,"SN","TT",6,3,5,66.2123188405797,76
+"437",437,262,79,"M","UHC PPS Medicare Complete","IA OASIS Certified",17,"22","Control",0,0,"7","Control",0,0,"SN","CC",10,0,12,0,0
+"438",438,475,86,"M","Medicare/NE","NE OASIS Certified",25,"22","Control",0,0,"13","Control",0,0,"SN","CC",11,2,11,0,0
+"439",439,401,60,"F","Medicare/NE","NE OASIS Certified",37,"22","Control",0,0,"21","Control",0,0,"SN","CC",15,3,14,0,0
+"440",440,474,69,"F","United Health Care","NE OASIS Certified",38,"22","Control",0,0,"13","Control",0,0,"SN","CC",11,1,12,0,0
+"441",441,96,72,"F","Medicare/NE","NE OASIS Certified",25,"22","Control",0,0,"13","Control",0,0,"SN","CC",18,9,11,0,0
+"442",442,64,69,"F","Medicare/NE","IA OASIS Certified",59,"22","Control",0,0,"2","Control",0,0,"SN","CC",10,0,12,0,0
+"443",443,490,43,"M","Amerigroup Iowa","IA OASIS Certified",58,"22","Control",0,0,"7","Control",0,0,"SN","CC",13,2,13,0,0
+"444",444,260,68,"F","Medicare/NE","NE OASIS Certified",29,"22","Control",0,0,"13","Control",0,0,"SN","CC",13,0,15,0,0
+"445",445,497,29,"M","AmeriHealth Caritas Iowa","IA OASIS Certified",26,"22","Control",0,0,"3","Control",0,0,"SN","CC",14,2,14,0,0
+"446",446,430,68,"F","Medicare/NE","NE OASIS Certified",41,"22","Control",0,0,"11","Control",0,0,"SN","CC",13,8,7,0,0
+"447",447,211,54,"F","UHC PPS Medicare Complete","NE OASIS Certified",39,"22","Control",0,0,"7","Control",0,0,"SN","CC",13,5,10,0,0
+"448",448,499,59,"F","United Healthcare Community Plan","NE OASIS Certified",31,"22","Control",0,0,"27","Control",0,0,"SN","CC",11,3,10,0,0
+"449",449,195,61,"F","Medicare/NE","NE OASIS Certified",25,"22","Control",0,0,"11","Control",0,0,"SN","CC",9,5,6,0,0
+"450",450,502,69,"F","Medicare/NE","IA OASIS Certified",13,"22","Control",0,0,"7","Control",0,0,"SN","CC",12,1,13,0,0
+"451",451,156,67,"F","Medicare/NE","NE OASIS Certified",17,"22","Control",0,0,"4","Control",0,0,"SN","CC",13,11,4,0,0
+"452",452,505,48,"M","Amerigroup Iowa","NE OASIS Certified",18,"22","Control",0,0,"3","Control",0,0,"SN","CC",9,0,11,0,0
+"453",453,97,79,"F","Medicare/NE","NE OASIS Certified",20,"22","Control",0,0,"3","Control",0,0,"SN","CC",14,7,9,0,0
+"454",454,135,91,"F","UHC PPS Medicare Complete","NE OASIS Certified",17,"22","Control",0,0,"13","Control",0,0,"SN","CC",10,0,12,0,0
+"455",455,234,82,"F","Medicare/NE","IA OASIS Certified",19,"22","Control",0,0,"7","Control",0,0,"SN","CC",15,2,15,0,0
+"456",456,510,55,"M","UnitedHealthcare River Valley Iowa","IA OASIS Certified",20,"22","Control",0,0,"9","Control",0,0,"SN","CC",13,12,3,0,0
+"457",457,617,64,"F","Medicare/NE","NE OASIS Certified",33,"22","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",15,2,15,28.2983333333333,3
+"458",458,108,81,"F","UHC PPS Medicare Complete","IA OASIS Certified",52,"22","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",11,5,8,24.1883333333333,0
+"459",459,590,58,"F","Nebraska Total Care","NE OASIS Certified",34,"22","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",10,2,10,28.2983333333333,3
+"460",460,201,57,"M","AETNA","IA OASIS Certified",53,"22","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",18,2,15,24.1883333333333,0
+"461",461,635,55,"F","Medicare/NE","NE OASIS Certified",19,"22","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",14,2,14,33.1061594202899,38
+"462",462,519,75,"F","UHC PPS Medicare Complete","IA OASIS Certified",48,"22","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",14,10,6,33.1061594202899,38
+"463",463,52,76,"F","Medicare/NE","IA OASIS Certified",55,"22","Control",0,0,"2","Trained",25.4658333333333,4,"SN","CT",12,5,9,25.4658333333333,4
+"464",464,646,68,"F","UnitedHealthcare River Valley Iowa","IA OASIS Certified",14,"22","Control",0,0,"7","Trained",27.155,24,"SN","CT",12,12,2,27.155,24
+"465",465,651,65,"F","Medicare/NE","NE OASIS Certified",25,"22","Control",0,0,"27","Trained",30.4908333333333,3,"SN","CT",12,8,6,30.4908333333333,3
+"466",466,227,31,"F","Enrichment","NE OASIS Certified",26,"22","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",17,16,3,33.1061594202899,38
+"467",467,658,65,"M","UHC PPS Medicare Complete","IA OASIS Certified",19,"22","Control",0,0,"2","Trained",25.4658333333333,4,"SN","CT",18,6,14,25.4658333333333,4
+"468",468,655,71,"F","Medicare/NE","IA OASIS Certified",12,"22","Control",0,0,"7","Trained",27.155,24,"SN","CT",10,0,12,27.155,24
+"469",469,155,67,"F","Medicare/NE","IA OASIS Certified",31,"22","Control",0,0,"23","Trained",34.1916111111111,27,"SN","CT",11,8,5,34.1916111111111,27
+"470",470,67,74,"F","Advantra Nebraska PPS","NE OASIS Certified",32,"22","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",11,2,11,28.2983333333333,3
+"471",471,662,73,"F","UHC PPS Medicare Complete","NE OASIS Certified",35,"22","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",14,1,15,28.2983333333333,3
+"472",472,167,44,"F","Amerigroup Iowa","IA OASIS Certified",59,"22","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",14,6,10,24.1883333333333,0
+"473",473,73,62,"F","Medicare/NE","IA OASIS Certified",33,"22","Control",0,0,"29","Trained",33.0598484848485,5,"SN","CT",13,6,9,33.0598484848485,5
+"474",474,663,83,"F","Medicare/NE","NE OASIS Certified",44,"22","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",15,11,6,33.1061594202899,38
+"475",475,670,38,"M","AmeriHealth Caritas Iowa","IA OASIS Certified",35,"22","Control",0,0,"7","Trained",27.155,24,"SN","CT",12,5,9,27.155,24
+"476",476,23,87,"F","Medicare/NE","NE OASIS Certified",20,"22","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",10,5,7,28.2983333333333,3
+"477",477,674,57,"M","Medicare/NE","NE OASIS Certified",16,"22","Control",0,0,"30","Control",0,0,"SN","CC",13,2,13,0,0
+"478",478,96,72,"F","Medicare/NE","NE OASIS Certified",26,"22","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",15,10,7,28.2983333333333,3
+"479",479,693,48,"F","Amerigroup Iowa","IA OASIS Certified",20,"22","Control",0,0,"7","Trained",27.155,24,"SN","CT",18,2,18,27.155,24
+"480",480,695,33,"F","Midlands Choice","IA OASIS Certified",26,"22","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",13,1,14,24.1883333333333,0
+"481",481,706,54,"M","Amerigroup Iowa","IA OASIS Certified",19,"22","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",15,1,13,24.1883333333333,0
+"482",482,705,69,"M","Medicare/NE","NE OASIS Certified",46,"22","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",18,5,12,24.1883333333333,0
+"483",483,699,80,"M","Medicare/NE","IA OASIS Certified",20,"22","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",15,3,14,33.1061594202899,38
+"484",484,713,56,"M","Medicare/NE","IA OASIS Certified",19,"22","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",11,1,12,33.1061594202899,38
+"485",485,17,45,"F","Amerigroup Iowa","IA OASIS Certified",5,"22","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",13,8,7,24.1883333333333,0
+"486",486,726,81,"F","Advantra Iowa PPS","IA OASIS Certified",18,"22","Control",0,0,"7","Trained",27.155,24,"SN","CT",10,3,9,27.155,24
+"487",487,723,35,"M","Nebraska Total Care","NE OASIS Certified",14,"22","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",10,4,8,33.1061594202899,38
+"488",488,44,69,"F","Medicare/NE","IA OASIS Certified",25,"22","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",13,5,10,24.1883333333333,0
+"489",489,732,57,"M","UHC PPS Medicare Complete","IA OASIS Certified",13,"22","Control",0,0,"7","Trained",27.155,24,"SN","CT",14,1,12,27.155,24
+"490",490,471,65,"F","Medicare/NE","NE OASIS Certified",52,"5","Control",0,0,"12","Control",0,0,"SN","CC",10,3,9,0,0
+"491",491,476,72,"F","Medicare/NE","NE OASIS Certified",59,"5","Control",0,0,"1","Control",0,0,"SN","CC",11,3,10,0,0
+"492",492,541,81,"F","Medicare/NE","NE OASIS Certified",26,"17","Trained",42.1933333333333,1,"17","Trained",42.1933333333333,1,"SN","TT",9,3,8,84.3866666666667,2
+"493",493,165,57,"F","United Healthcare Community Plan","NE OASIS Certified",92,"17","Trained",42.1933333333333,1,"17","Trained",42.1933333333333,1,"SN","TT",7,4,5,84.3866666666667,2
+"494",494,578,73,"M","Medicare/NE","NE OASIS Certified",43,"17","Trained",42.1933333333333,1,"17","Trained",42.1933333333333,1,"SN","TT",10,0,12,84.3866666666667,2
+"495",495,477,81,"M","Medicare/NE","NE OASIS Certified",33,"4","Control",0,0,"4","Control",0,0,"SN","CC",10,4,8,0,0
+"496",496,106,71,"F","Medicare/NE","NE OASIS Certified",28,"4","Control",0,0,"4","Control",0,0,"SN","CC",18,6,14,0,0
+"497",497,34,85,"M","Medicare/NE","NE OASIS Certified",20,"4","Control",0,0,"4","Control",0,0,"SN","CC",14,9,7,0,0
+"498",498,214,72,"F","UHC PPS Medicare Complete","NE OASIS Certified",10,"4","Control",0,0,"32","Control",0,0,"SN","CC",13,5,10,0,0
+"499",499,532,75,"F","Medicare/NE","NE OASIS Certified",30,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",11,5,8,76.7253333333333,10
+"500",500,582,41,"M","United Health Care","NE OASIS Certified",39,"4","Trained",38.3626666666667,5,"14","Trained",22.6066666666667,1,"SN","TT",12,1,13,60.9693333333333,6
+"501",501,317,90,"M","Medicare/NE","NE OASIS Certified",28,"4","Trained",38.3626666666667,5,"30","Control",0,0,"SN","TC",11,4,9,38.3626666666667,5
+"502",502,601,57,"M","Medicare/NE","NE OASIS Certified",13,"4","Trained",38.3626666666667,5,"13","Control",0,0,"SN","TC",15,1,16,38.3626666666667,5
+"503",503,118,86,"F","UHC PPS Medicare Complete","NE OASIS Certified",27,"4","Trained",38.3626666666667,5,"18","Control",0,0,"SN","TC",11,12,1,38.3626666666667,5
+"504",504,447,92,"M","Medicare/NE","NE OASIS Certified",30,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",14,12,4,76.7253333333333,10
+"505",505,615,70,"M","Medicare/NE","NE OASIS Certified",22,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",14,4,9,76.7253333333333,10
+"506",506,452,72,"M","UHC PPS Medicare Complete","NE OASIS Certified",58,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",11,11,2,76.7253333333333,10
+"507",507,626,64,"F","Enrichment","NE OASIS Certified",20,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",11,4,9,76.7253333333333,10
+"508",508,8,59,"F","VA PPS","NE OASIS Certified",27,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",13,5,10,76.7253333333333,10
+"509",509,33,105,"F","Medicare/NE","NE OASIS Certified",27,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",11,8,5,76.7253333333333,10
+"510",510,644,28,"F","WellCare Of Nebraska","NE OASIS Certified",6,"4","Trained",38.3626666666667,5,"13","Control",0,0,"SN","TC",17,6,13,38.3626666666667,5
+"511",511,16,84,"F","UHC PPS Medicare Complete","NE OASIS Certified",9,"11","Control",0,0,"11","Control",0,0,"SN","CC",9,1,10,0,0
+"512",512,212,27,"F","Medicare/NE","NE OASIS Certified",19,"11","Control",0,0,"27","Control",0,0,"SN","CC",14,4,12,0,0
+"513",513,508,71,"M","AETNA","NE OASIS Certified",12,"11","Control",0,0,"13","Control",0,0,"SN","CC",11,1,12,0,0
+"514",514,179,81,"F","Medicare/NE","NE OASIS Certified",55,"11","Trained",28.2983333333333,3,"25","Trained",15.37,0,"SN","TT",14,5,11,43.6683333333333,3
+"515",515,560,34,"M","Amerigroup Iowa","IA OASIS Certified",30,"11","Trained",28.2983333333333,3,"9","Trained",24.1883333333333,0,"SN","TT",13,5,10,52.4866666666667,3
+"516",516,260,68,"F","Medicare/NE","NE OASIS Certified",57,"11","Trained",28.2983333333333,3,"27","Trained",30.4908333333333,3,"SN","TT",13,3,12,58.7891666666667,6
+"517",517,572,74,"M","Medicare/NE","NE OASIS Certified",25,"11","Trained",28.2983333333333,3,"11","Trained",28.2983333333333,3,"SN","TT",11,0,13,56.5966666666667,6
+"518",518,595,91,"F","Medicare/NE","NE OASIS Certified",17,"11","Trained",28.2983333333333,3,"11","Trained",28.2983333333333,3,"SN","TT",9,2,9,56.5966666666667,6
+"519",519,586,71,"F","Medicare/NE","NE OASIS Certified",15,"11","Trained",28.2983333333333,3,"11","Trained",28.2983333333333,3,"SN","TT",13,0,12,56.5966666666667,6
+"520",520,599,90,"F","Medicare/NE","NE OASIS Certified",26,"11","Trained",28.2983333333333,3,"11","Trained",28.2983333333333,3,"SN","TT",12,9,5,56.5966666666667,6
+"521",521,528,69,"M","VA PPS","NE OASIS Certified",25,"11","Trained",28.2983333333333,3,"11","Trained",28.2983333333333,3,"SN","TT",11,6,7,56.5966666666667,6
+"522",522,743,92,"F","UHC PPS Medicare Complete","NE OASIS Certified",36,"11","Trained",28.2983333333333,3,"8","Trained",33.4760328638498,62,"SN","TT",11,4,9,61.7743661971831,65
+"523",523,40,61,"M","Medicare/NE","NE OASIS Certified",55,"11","Trained",28.2983333333333,3,"25","Trained",15.37,0,"SN","TT",13,3,12,43.6683333333333,3
+"524",524,660,85,"F","UHC PPS Medicare Complete","NE OASIS Certified",19,"11","Trained",28.2983333333333,3,"11","Trained",28.2983333333333,3,"SN","TT",17,11,8,56.5966666666667,6
+"525",525,136,74,"F","UHC PPS Medicare Complete","NE OASIS Certified",43,"11","Trained",28.2983333333333,3,"3","Trained",33.1061594202899,38,"SN","TT",14,7,9,61.4044927536232,41
+"526",526,85,65,"F","UHC PPS Medicare Complete","NE OASIS Certified",21,"11","Trained",28.2983333333333,3,"11","Trained",28.2983333333333,3,"SN","TT",10,3,10,56.5966666666667,6
+"527",527,225,82,"F","Medicare/NE","NE OASIS Certified",29,"11","Trained",28.2983333333333,3,"27","Trained",30.4908333333333,3,"SN","TT",9,2,9,58.7891666666667,6
+"528",528,198,35,"F","Nebraska Total Care","NE OASIS Certified",8,"11","Trained",28.2983333333333,3,"11","Trained",28.2983333333333,3,"SN","TT",13,4,11,56.5966666666667,6
+"529",529,570,69,"M","VA PPS","IA OASIS Certified",11,"29","Trained",33.0598484848485,5,"29","Trained",33.0598484848485,5,"SN","TT",17,5,14,66.119696969697,10
+"530",530,514,80,"F","UHC PPS Medicare Complete","NE OASIS Certified",5,"6","Control",0,0,"11","Control",0,0,"SN","CC",15,16,1,0,0
+"531",531,515,81,"F","Medicare/NE","NE OASIS Certified",21,"6","Control",0,0,"13","Control",0,0,"SN","CC",10,5,7,0,0
+"532",532,518,62,"F","AETNA Better Health","NE OASIS Certified",25,"6","Control",0,0,"8","Control",0,0,"SN","CC",10,4,8,0,0
+"533",533,525,51,"M","United Health Care","NE OASIS Certified",11,"6","Control",0,0,"27","Control",0,0,"SN","CC",13,7,8,0,0
+"534",534,537,78,"M","Medicare/NE","NE OASIS Certified",12,"6","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",10,4,8,28.2983333333333,3
+"535",535,546,76,"M","Medicare/NE","NE OASIS Certified",75,"6","Control",0,0,"12","Trained",0.478333333333333,1,"SN","CT",16,12,6,0.478333333333333,1
+"536",536,564,74,"M","VA PPS","NE OASIS Certified",10,"6","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",9,6,5,28.2983333333333,3
+"537",537,553,73,"M","Advantra Iowa PPS","IA OASIS Certified",19,"6","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",10,6,6,24.1883333333333,0
+"538",538,555,82,"F","Advantra Nebraska PPS","NE OASIS Certified",17,"6","Control",0,0,"13","Control",0,0,"SN","CC",10,3,9,0,0
+"539",539,559,91,"M","UHC PPS Medicare Complete","NE OASIS Certified",58,"6","Control",0,0,"20","Control",0,0,"SN","CC",10,4,8,0,0
+"540",540,92,83,"M","Advantra Nebraska PPS","NE OASIS Certified",21,"6","Control",0,0,"10","Trained",36.4998198198198,37,"SN","CT",10,6,6,36.4998198198198,37
+"541",541,216,95,"F","Medicare/NE","NE OASIS Certified",55,"6","Control",0,0,"20","Control",0,0,"SN","CC",9,2,9,0,0
+"542",542,744,57,"F","Medicare/NE","NE OASIS Certified",39,"6","Control",0,0,"21","Trained",30.6369230769231,22,"SN","CT",12,2,12,30.6369230769231,22
+"543",543,575,66,"F","Medicare/NE","NE OASIS Certified",15,"6","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",14,6,10,28.2983333333333,3
+"544",544,181,69,"M","Medicare/NE","NE OASIS Certified",59,"6","Control",0,0,"20","Control",0,0,"SN","CC",7,4,5,0,0
+"545",545,605,80,"F","Medicare/NE","NE OASIS Certified",13,"6","Control",0,0,"13","Control",0,0,"SN","CC",5,2,5,0,0
+"546",546,506,61,"F","Advantra Nebraska PPS","NE OASIS Certified",81,"6","Control",0,0,"20","Control",0,0,"SN","CC",9,4,7,0,0
+"547",547,591,95,"M","Medicare/NE","NE OASIS Certified",52,"6","Control",0,0,"12","Trained",0.478333333333333,1,"SN","CT",9,8,3,0.478333333333333,1
+"548",548,614,90,"M","Medicare/NE","NE OASIS Certified",25,"6","Control",0,0,"17","Trained",42.1933333333333,1,"SN","CT",7,3,6,42.1933333333333,1
+"549",549,157,84,"F","Medicare/NE","NE OASIS Certified",96,"6","Control",0,0,"17","Trained",42.1933333333333,1,"SN","CT",5,4,3,42.1933333333333,1
+"550",550,239,60,"F","UHC PPS Medicare Complete","NE OASIS Certified",34,"6","Control",0,0,"30","Control",0,0,"SN","CC",11,2,11,0,0
+"551",551,621,83,"F","Medicare/NE","NE OASIS Certified",58,"6","Control",0,0,"1","Trained",31.0271904761905,33,"SN","CT",15,3,11,31.0271904761905,33
+"552",552,576,81,"F","UHC PPS Medicare Complete","NE OASIS Certified",35,"6","Control",0,0,"12","Trained",0.478333333333333,1,"SN","CT",6,4,4,0.478333333333333,1
+"553",553,627,70,"F","UHC PPS Medicare Complete","NE OASIS Certified",19,"6","Control",0,0,"31","Control",0,0,"SN","CC",12,8,6,0,0
+"554",554,128,47,"F","United Health Care","NE OASIS Certified",48,"6","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",16,8,10,28.2983333333333,3
+"555",555,630,52,"M","Medicare/NE","NE OASIS Certified",33,"6","Control",0,0,"20","Control",0,0,"SN","CC",13,6,9,0,0
+"556",556,162,64,"M","Medicare/NE","NE OASIS Certified",25,"6","Control",0,0,"20","Control",0,0,"SN","CC",13,3,9,0,0
+"557",557,230,76,"M","UHC PPS Medicare Complete","NE OASIS Certified",18,"6","Control",0,0,"12","Trained",0.478333333333333,1,"SN","CT",9,3,8,0.478333333333333,1
+"558",558,647,37,"F","United Health Care","NE OASIS Certified",33,"6","Control",0,0,"20","Control",0,0,"SN","CC",6,5,3,0,0
+"559",559,249,75,"F","Medicare/NE","NE OASIS Certified",38,"6","Control",0,0,"20","Control",0,0,"SN","CC",4,2,4,0,0
+"560",560,612,79,"M","Medicare/NE","NE OASIS Certified",58,"6","Control",0,0,"17","Trained",42.1933333333333,1,"SN","CT",6,4,4,42.1933333333333,1
+"561",561,652,61,"M","Medicare/NE","IA OASIS Certified",27,"6","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",4,2,4,24.1883333333333,0
+"562",562,634,89,"F","UHC PPS Medicare Complete","NE OASIS Certified",58,"6","Control",0,0,"1","Trained",31.0271904761905,33,"SN","CT",14,8,5,31.0271904761905,33
+"563",563,30,67,"F","Medicare/NE","NE OASIS Certified",18,"6","Control",0,0,"20","Control",0,0,"SN","CC",14,3,13,0,0
+"564",564,98,89,"F","Medicare/NE","NE OASIS Certified",59,"6","Control",0,0,"17","Trained",42.1933333333333,1,"SN","CT",10,8,4,42.1933333333333,1
+"565",565,533,51,"F","United Healthcare Community Plan","NE OASIS Certified",16,"6","Control",0,0,"14","Trained",22.6066666666667,1,"SN","CT",5,0,7,22.6066666666667,1
+"566",566,668,82,"F","Medicare/NE","NE OASIS Certified",28,"6","Control",0,0,"15","Control",0,0,"SN","CC",10,3,9,0,0
+"567",567,562,62,"M","UHC PPS Medicare Complete","NE OASIS Certified",39,"6","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",13,5,10,28.2983333333333,3
+"568",568,680,90,"M","Medicare/NE","NE OASIS Certified",18,"6","Control",0,0,"20","Control",0,0,"SN","CC",16,4,11,0,0
+"569",569,683,84,"F","UHC PPS Medicare Complete","NE OASIS Certified",18,"6","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",9,9,2,38.3626666666667,5
+"570",570,175,67,"M","UHC PPS Medicare Complete","NE OASIS Certified",31,"6","Control",0,0,"27","Trained",30.4908333333333,3,"SN","CT",7,7,2,30.4908333333333,3
+"571",571,93,54,"F","Medicare/NE","NE OASIS Certified",28,"6","Control",0,0,"29","Trained",33.0598484848485,5,"SN","CT",15,4,10,33.0598484848485,5
+"572",572,691,82,"F","Medicare/NE","NE OASIS Certified",12,"6","Control",0,0,"12","Trained",0.478333333333333,1,"SN","CT",9,3,8,0.478333333333333,1
+"573",573,698,71,"F","Medicare/NE","NE OASIS Certified",24,"6","Control",0,0,"30","Control",0,0,"SN","CC",6,2,6,0,0
+"574",574,215,90,"M","Medicare/NE","NE OASIS Certified",15,"6","Control",0,0,"20","Control",0,0,"SN","CC",11,8,5,0,0
+"575",575,707,74,"F","Medicare/NE","NE OASIS Certified",34,"6","Control",0,0,"1","Trained",31.0271904761905,33,"SN","CT",9,4,7,31.0271904761905,33
+"576",576,682,44,"M","AETNA","NE OASIS Certified",38,"6","Control",0,0,"20","Control",0,0,"SN","CC",10,1,11,0,0
+"577",577,711,53,"M","United Health Care","NE OASIS Certified",27,"6","Control",0,0,"12","Trained",0.478333333333333,1,"SN","CT",12,7,7,0.478333333333333,1
+"578",578,715,67,"M","Medicare/NE","NE OASIS Certified",32,"6","Control",0,0,"20","Control",0,0,"SN","CC",13,2,13,0,0
+"579",579,164,74,"M","Medicare/NE","NE OASIS Certified",27,"6","Control",0,0,"20","Control",0,0,"SN","CC",9,1,10,0,0
+"580",580,722,71,"M","UHC PPS Medicare Complete","NE OASIS Certified",4,"6","Control",0,0,"6","Control",0,0,"SN","CC",8,8,2,0,0
+"581",581,727,62,"F","United Health Care","NE OASIS Certified",23,"6","Control",0,0,"20","Control",0,0,"SN","CC",9,1,10,0,0
+"582",582,84,71,"M","Medicare/NE","NE OASIS Certified",13,"6","Control",0,0,"20","Control",0,0,"SN","CC",11,2,11,0,0
+"583",583,733,86,"M","Medicare/NE","NE OASIS Certified",9,"6","Control",0,0,"20","Control",0,0,"SN","CC",8,6,4,0,0
+"584",584,39,64,"M","Advantra Iowa PPS","IA OASIS Certified",58,"26","Control",0,0,"7","Trained",27.155,24,"SN","CT",17,8,11,27.155,24
+"585",585,494,59,"F","UHC PPS Medicare Complete","NE OASIS Certified",18,"12","Control",0,0,"12","Control",0,0,"SN","CC",10,9,3,0,0
+"586",586,507,92,"F","Medicare/NE","NE OASIS Certified",9,"12","Control",0,0,"12","Control",0,0,"SN","CC",12,8,3,0,0
+"587",587,589,66,"M","UHC PPS Medicare Complete","NE OASIS Certified",57,"12","Trained",0.478333333333333,1,"12","Trained",0.478333333333333,1,"SN","TT",14,3,13,0.956666666666667,2
+"588",588,4,87,"M","UHC PPS Medicare Complete","NE OASIS Certified",43,"12","Trained",0.478333333333333,1,"12","Trained",0.478333333333333,1,"SN","TT",10,3,9,0.956666666666667,2
+"589",589,631,42,"M","Enrichment","NE OASIS Certified",47,"12","Trained",0.478333333333333,1,"12","Trained",0.478333333333333,1,"SN","TT",6,1,7,0.956666666666667,2
+"590",590,254,89,"F","Medicare/NE","NE OASIS Certified",50,"12","Trained",0.478333333333333,1,"12","Trained",0.478333333333333,1,"SN","TT",9,5,6,0.956666666666667,2
+"591",591,161,26,"M","Medicare/NE","NE OASIS Certified",22,"12","Trained",0.478333333333333,1,"12","Trained",0.478333333333333,1,"SN","TT",7,4,5,0.956666666666667,2
+"592",592,701,77,"F","UHC PPS Medicare Complete","NE OASIS Certified",54,"12","Trained",0.478333333333333,1,"3","Trained",33.1061594202899,38,"SN","TT",10,3,9,33.5844927536232,39
+"593",593,384,86,"F","Medicare/NE","NE OASIS Certified",35,"12","Trained",0.478333333333333,1,"12","Trained",0.478333333333333,1,"SN","TT",15,7,10,0.956666666666667,2
+"594",594,684,24,"M","BCBS Of Nebraska","NE OASIS Certified",21,"12","Trained",0.478333333333333,1,"12","Trained",0.478333333333333,1,"SN","TT",6,0,8,0.956666666666667,2
+"595",595,132,67,"F","Medicare/NE","NE OASIS Certified",10,"15","Control",0,0,"15","Control",0,0,"PT","CC",4,4,2,0,0
+"596",596,493,58,"F","Coventry Health Care","NE OASIS Certified",10,"15","Control",0,0,"15","Control",0,0,"PT","CC",12,6,8,0,0
+"597",597,540,83,"M","Advantra Nebraska PPS","NE OASIS Certified",26,"15","Control",0,0,"1","Trained",31.0271904761905,33,"PT","CT",5,3,4,31.0271904761905,33
+"598",598,223,64,"F","United Health Care","NE OASIS Certified",14,"15","Control",0,0,"31","Control",0,0,"PT","CC",5,5,2,0,0
+"599",599,554,45,"M","Coventry Health Care","NE OASIS Certified",16,"15","Control",0,0,"31","Control",0,0,"PT","CC",10,4,8,0,0
+"600",600,566,67,"M","Medicare/NE","NE OASIS Certified",38,"15","Control",0,0,"15","Control",0,0,"PT","CC",8,7,3,0,0
+"601",601,472,82,"F","Medicare/NE","NE OASIS Certified",48,"15","Control",0,0,"15","Control",0,0,"PT","CC",3,3,2,0,0
+"602",602,119,85,"M","UHC PPS Medicare Complete","NE OASIS Certified",21,"15","Control",0,0,"15","Control",0,0,"PT","CC",7,7,2,0,0
+"603",603,606,66,"F","Medicare/NE","NE OASIS Certified",16,"15","Control",0,0,"31","Control",0,0,"PT","CC",5,4,3,0,0
+"604",604,395,80,"F","Medicare/NE","NE OASIS Certified",50,"15","Control",0,0,"15","Control",0,0,"PT","CC",4,2,4,0,0
+"605",605,183,97,"F","Medicare/NE","NE OASIS Certified",24,"15","Control",0,0,"15","Control",0,0,"PT","CC",11,8,5,0,0
+"606",606,603,47,"F","AETNA","NE OASIS Certified",11,"15","Control",0,0,"15","Control",0,0,"PT","CC",10,7,5,0,0
+"607",607,740,86,"F","Advantra Iowa PPS","IA OASIS Certified",32,"7","Control",0,0,"7","Control",0,0,"SN","CC",13,4,11,0,0
+"608",608,545,74,"M","Medicare/NE","IA OASIS Certified",59,"7","Trained",27.155,24,"3","Trained",33.1061594202899,38,"SN","TT",13,0,12,60.2611594202899,62
+"609",609,50,91,"F","Advantra Iowa PPS","IA OASIS Certified",28,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",18,10,7,54.31,48
+"610",610,587,36,"F","AmeriHealth Caritas Iowa","IA OASIS Certified",21,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",2,0,4,54.31,48
+"611",611,584,68,"F","Medicare/NE","IA OASIS Certified",28,"7","Trained",27.155,24,"23","Trained",34.1916111111111,27,"SN","TT",7,4,5,61.3466111111111,51
+"612",612,251,73,"M","Medicare/NE","NE OASIS Certified",50,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",10,5,7,54.31,48
+"613",613,556,53,"F","Nebraska Total Care","NE OASIS Certified",49,"7","Trained",27.155,24,"11","Trained",28.2983333333333,3,"SN","TT",14,4,9,55.4533333333333,27
+"614",614,31,46,"F","AmeriHealth Caritas Iowa","IA OASIS Certified",40,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",13,9,6,54.31,48
+"615",615,737,79,"M","Advantra Iowa PPS","IA OASIS Certified",84,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",12,5,9,54.31,48
+"616",616,297,89,"F","AETNA Medicare PPS","IA OASIS Certified",30,"7","Trained",27.155,24,"2","Trained",25.4658333333333,4,"SN","TT",16,3,12,52.6208333333333,28
+"617",617,639,58,"F","United Health Care","IA OASIS Certified",42,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",16,4,14,54.31,48
+"618",618,735,48,"F","Medicare/NE","NE OASIS Certified",47,"14","Control",0,0,"15","Control",0,0,"SN","CC",18,17,3,0,0
+"619",619,516,64,"M","Coventry Health Care","NE OASIS Certified",5,"14","Control",0,0,"14","Control",0,0,"SN","CC",9,6,5,0,0
+"620",620,109,76,"M","Humana Medicare HMO","NE OASIS Certified",18,"14","Control",0,0,"14","Control",0,0,"SN","CC",14,4,12,0,0
+"621",621,60,95,"F","Medicare/NE","NE OASIS Certified",35,"14","Trained",22.6066666666667,1,"3","Trained",33.1061594202899,38,"SN","TT",11,8,5,55.7128260869565,39
+"622",622,13,77,"F","Medicare/NE","NE OASIS Certified",41,"14","Trained",22.6066666666667,1,"17","Trained",42.1933333333333,1,"SN","TT",15,5,12,64.8,2
+"623",623,609,94,"M","UHC PPS Medicare Complete","NE OASIS Certified",13,"14","Trained",22.6066666666667,1,"14","Trained",22.6066666666667,1,"SN","TT",12,2,12,45.2133333333333,2
+"624",624,158,73,"F","UHC PPS Medicare Complete","NE OASIS Certified",78,"14","Trained",22.6066666666667,1,"21","Trained",30.6369230769231,22,"SN","TT",11,3,10,53.2435897435897,23
+"625",625,203,85,"F","UHC PPS Medicare Complete","NE OASIS Certified",34,"14","Trained",22.6066666666667,1,"14","Trained",22.6066666666667,1,"SN","TT",10,4,8,45.2133333333333,2
+"626",626,125,60,"F","Medicare/NE","NE OASIS Certified",30,"14","Trained",22.6066666666667,1,"21","Trained",30.6369230769231,22,"SN","TT",9,0,11,53.2435897435897,23
+"627",627,659,78,"M","Medicare/NE","NE OASIS Certified",49,"14","Trained",22.6066666666667,1,"14","Trained",22.6066666666667,1,"SN","TT",10,2,11,45.2133333333333,2
+"628",628,661,41,"M","Medicare/NE","NE OASIS Certified",10,"14","Trained",22.6066666666667,1,"14","Trained",22.6066666666667,1,"SN","TT",12,0,14,45.2133333333333,2
+"629",629,675,88,"M","Medicare/NE","NE OASIS Certified",29,"14","Trained",22.6066666666667,1,"14","Trained",22.6066666666667,1,"SN","TT",10,0,12,45.2133333333333,2
+"630",630,700,85,"F","Medicare/NE","NE OASIS Certified",17,"14","Trained",22.6066666666667,1,"14","Trained",22.6066666666667,1,"SN","TT",10,1,11,45.2133333333333,2
+"631",631,710,48,"M","Sliding Fee","NE OASIS Certified",15,"14","Trained",22.6066666666667,1,"14","Trained",22.6066666666667,1,"SN","TT",15,1,16,45.2133333333333,2
+"632",632,720,82,"F","UHC PPS Medicare Complete","NE OASIS Certified",17,"14","Trained",22.6066666666667,1,"24","Control",0,0,"SN","TC",11,6,7,22.6066666666667,1
+"633",633,719,74,"M","Medicare/NE","NE OASIS Certified",30,"14","Trained",22.6066666666667,1,"12","Trained",0.478333333333333,1,"SN","TT",14,4,12,23.085,2
+"634",634,544,82,"F","Medicare/NE","IA OASIS Certified",54,"10","Trained",36.4998198198198,37,"23","Trained",34.1916111111111,27,"PT","TT",13,5,10,70.6914309309309,64
+"635",635,86,99,"M","Medicare/NE","NE OASIS Certified",45,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",11,10,3,72.9996396396396,74
+"636",636,569,89,"M","UHC PPS Medicare Complete","NE OASIS Certified",40,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",9,5,6,72.9996396396396,74
+"637",637,573,85,"F","Medicare/NE","NE OASIS Certified",15,"10","Trained",36.4998198198198,37,"30","Control",0,0,"PT","TC",10,2,7,36.4998198198198,37
+"638",638,568,78,"F","UHC PPS Medicare Complete","NE OASIS Certified",12,"10","Trained",36.4998198198198,37,"30","Control",0,0,"PT","TC",12,2,12,36.4998198198198,37
+"639",639,579,90,"F","Medicare/NE","NE OASIS Certified",56,"10","Trained",36.4998198198198,37,"14","Trained",22.6066666666667,1,"PT","TT",10,6,6,59.1064864864865,38
+"640",640,565,58,"M","Amerigroup Iowa","IA OASIS Certified",8,"10","Trained",36.4998198198198,37,"21","Trained",30.6369230769231,22,"PT","TT",8,5,5,67.1367428967429,59
+"641",641,583,84,"M","UHC PPS Medicare Complete","NE OASIS Certified",15,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",8,5,5,72.9996396396396,74
+"642",642,588,82,"M","Medicare/NE","NE OASIS Certified",28,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",9,2,9,72.9996396396396,74
+"643",643,596,80,"F","Medicare/NE","NE OASIS Certified",8,"10","Trained",36.4998198198198,37,"21","Trained",30.6369230769231,22,"PT","TT",10,5,7,67.1367428967429,59
+"644",644,600,72,"F","Medicare/NE","NE OASIS Certified",14,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",13,6,6,72.9996396396396,74
+"645",645,602,62,"F","BCBS Of Nebraska","NE OASIS Certified",20,"10","Trained",36.4998198198198,37,"1","Trained",31.0271904761905,33,"PT","TT",16,16,2,67.5270102960103,70
+"646",646,604,92,"M","Medicare/NE","NE OASIS Certified",37,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",9,4,7,72.9996396396396,74
+"647",647,597,70,"M","Medicare/NE","NE OASIS Certified",55,"10","Trained",36.4998198198198,37,"21","Trained",30.6369230769231,22,"PT","TT",8,2,8,67.1367428967429,59
+"648",648,613,69,"F","UHC PPS Medicare Complete","NE OASIS Certified",57,"10","Trained",36.4998198198198,37,"30","Control",0,0,"PT","TC",9,3,8,36.4998198198198,37
+"649",649,29,73,"F","United Healthcare Community Plan","NE OASIS Certified",59,"10","Trained",36.4998198198198,37,"21","Trained",30.6369230769231,22,"PT","TT",13,11,4,67.1367428967429,59
+"650",650,69,96,"F","Medicare/NE","NE OASIS Certified",22,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",2,2,2,72.9996396396396,74
+"651",651,144,85,"F","Humana Medicare HMO","NE OASIS Certified",25,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",8,3,7,72.9996396396396,74
+"652",652,638,74,"F","United Health Care","NE OASIS Certified",7,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",7,7,2,72.9996396396396,74
+"653",653,90,89,"F","Medicare/NE","NE OASIS Certified",34,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",9,4,7,72.9996396396396,74
+"654",654,501,84,"F","UHC PPS Medicare Complete","NE OASIS Certified",33,"24","Control",0,0,"17","Control",0,0,"SN","CC",11,5,8,0,0
+"655",655,511,63,"F","Medicare/NE","NE OASIS Certified",5,"24","Control",0,0,"9","Control",0,0,"SN","CC",12,6,8,0,0
+"656",656,521,60,"F","BCBS Of Nebraska","NE OASIS Certified",23,"24","Control",0,0,"30","Control",0,0,"SN","CC",14,3,13,0,0
+"657",657,522,64,"F","United Health Care","IA NoOAS Certified",1,"24","Control",0,0,"24","Control",0,0,"SN","CC",10,9,3,0,0
+"658",658,94,61,"F","UHC PPS Medicare Complete","IA OASIS Certified",38,"24","Control",0,0,"7","Trained",27.155,24,"SN","CT",10,5,7,27.155,24
+"659",659,563,59,"F","New Era Life Ins","NE OASIS Certified",23,"24","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",17,5,11,38.3626666666667,5
+"660",660,571,92,"M","UHC PPS Medicare Complete","NE OASIS Certified",40,"24","Control",0,0,"14","Trained",22.6066666666667,1,"SN","CT",10,4,8,22.6066666666667,1
+"661",661,257,55,"F","Medicare/NE","IA OASIS Certified",59,"24","Control",0,0,"7","Trained",27.155,24,"SN","CT",8,6,4,27.155,24
+"662",662,15,81,"M","Medicare/NE","NE OASIS Certified",35,"24","Control",0,0,"7","Trained",27.155,24,"SN","CT",14,10,6,27.155,24
+"663",663,122,86,"F","Medicare/NE","NE OASIS Certified",96,"24","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",14,8,8,38.3626666666667,5
+"664",664,191,62,"M","Medicare/NE","NE OASIS Certified",33,"24","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",9,2,9,33.1061594202899,38
+"665",665,593,86,"M","Medicare/NE","IA OASIS Certified",32,"24","Control",0,0,"26","Control",0,0,"SN","CC",10,4,8,0,0
+"666",666,221,74,"F","Humana Medicare HMO","NE OASIS Certified",32,"24","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",10,6,6,38.3626666666667,5
+"667",667,607,53,"M","UnitedHealthcare River Valley Iowa","NE OASIS Certified",32,"24","Control",0,0,"2","Trained",25.4658333333333,4,"SN","CT",12,5,9,25.4658333333333,4
+"668",668,46,88,"M","Medicare/NE","NE OASIS Certified",29,"24","Control",0,0,"1","Trained",31.0271904761905,33,"SN","CT",10,8,4,31.0271904761905,33
+"669",669,592,70,"F","Enrichment","NE OASIS Certified",44,"24","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",7,4,5,38.3626666666667,5
+"670",670,619,87,"M","Humana Medicare HMO","NE OASIS Certified",57,"24","Control",0,0,"1","Trained",31.0271904761905,33,"SN","CT",13,8,7,31.0271904761905,33
+"671",671,620,87,"F","Humana Medicare HMO","NE OASIS Certified",27,"24","Control",0,0,"1","Trained",31.0271904761905,33,"SN","CT",13,2,13,31.0271904761905,33
+"672",672,342,75,"F","Medicare/NE","NE OASIS Certified",84,"8","Trained",33.4760328638498,62,"21","Trained",30.6369230769231,22,"PT","TT",10,2,10,64.1129559407728,84
+"673",673,150,77,"M","UHC PPS Medicare Complete","NE OASIS Certified",77,"8","Trained",33.4760328638498,62,"8","Trained",33.4760328638498,62,"PT","TT",10,6,6,66.9520657276995,124
+"674",674,72,74,"M","Humana Medicare HMO","NE OASIS Certified",23,"8","Trained",33.4760328638498,62,"8","Trained",33.4760328638498,62,"PT","TT",13,6,9,66.9520657276995,124
+"675",675,382,64,"F","BCBS Of Nebraska","NE OASIS Certified",13,"23","Control",0,0,"15","Control",0,0,"PT","CC",8,1,9,0,0
+"676",676,529,57,"M","United Health Care","IA OASIS Certified",12,"23","Control",0,0,"23","Control",0,0,"PT","CC",12,3,11,0,0
+"677",677,107,58,"M","Wellmark BCBS Of IA","IA OASIS Certified",11,"23","Trained",34.1916111111111,27,"23","Trained",34.1916111111111,27,"PT","TT",13,6,9,68.3832222222222,54
+"678",678,55,84,"F","UHC PPS Medicare Complete","IA OASIS Certified",32,"23","Trained",34.1916111111111,27,"23","Trained",34.1916111111111,27,"PT","TT",7,4,5,68.3832222222222,54
+"679",679,99,87,"F","Humana Medicare HMO","NE OASIS Certified",33,"23","Trained",34.1916111111111,27,"14","Trained",22.6066666666667,1,"PT","TT",10,4,8,56.7982777777778,28
+"680",680,160,84,"F","UHC PPS Medicare Complete","NE OASIS Certified",26,"23","Trained",34.1916111111111,27,"10","Trained",36.4998198198198,37,"PT","TT",15,10,7,70.6914309309309,64
+"681",681,328,71,"M","Advantra Iowa PPS","IA OASIS Certified",30,"2","Trained",25.4658333333333,4,"2","Trained",25.4658333333333,4,"PT","TT",10,5,7,50.9316666666667,8
+"682",682,550,69,"M","Medicare/NE","NE OASIS Certified",8,"27","Trained",30.4908333333333,3,"27","Trained",30.4908333333333,3,"PT","TT",15,3,14,60.9816666666667,6
+"683",683,269,77,"M","Workers Compensation","NE OASIS Certified",69,"27","Trained",30.4908333333333,3,"27","Trained",30.4908333333333,3,"PT","TT",10,0,12,60.9816666666667,6
+"684",684,552,53,"M","Healthnet VA PPS","NE OASIS Certified",60,"27","Trained",30.4908333333333,3,"27","Trained",30.4908333333333,3,"PT","TT",10,5,7,60.9816666666667,6
+"685",685,623,87,"F","UHC PPS Medicare Complete","NE OASIS Certified",12,"27","Trained",30.4908333333333,3,"27","Trained",30.4908333333333,3,"PT","TT",9,0,11,60.9816666666667,6
+"686",686,233,92,"F","Medicare/NE","NE OASIS Certified",28,"30","Control",0,0,"30","Control",0,0,"PT","CC",4,4,2,0,0
+"687",687,681,89,"M","UHC PPS Medicare Complete","NE OASIS Certified",17,"30","Control",0,0,"30","Control",0,0,"PT","CC",6,1,7,0,0
+"688",688,685,65,"M","United Health Care","NE OASIS Certified",12,"30","Control",0,0,"1","Trained",31.0271904761905,33,"PT","CT",13,5,10,31.0271904761905,33
+"689",689,665,55,"M","Medicare/NE","NE OASIS Certified",58,"32","Control",0,0,"32","Control",0,0,"PT","CC",11,4,9,0,0
+"690",690,624,53,"M","UHC  Military West","NE OASIS Certified",54,"24","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",11,8,5,24.1883333333333,0
+"691",691,633,30,"F","Nebraska Total Care","NE OASIS Certified",23,"24","Control",0,0,"14","Trained",22.6066666666667,1,"SN","CT",14,0,13,22.6066666666667,1
+"692",692,315,61,"F","Humana Medicare HMO","NE OASIS Certified",25,"24","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",9,3,8,33.1061594202899,38
+"693",693,636,73,"F","UHC PPS Medicare Complete","NE OASIS Certified",38,"24","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",14,4,12,38.3626666666667,5
+"694",694,640,92,"F","Medicare/NE","NE OASIS Certified",33,"24","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",12,10,4,38.3626666666667,5
+"695",695,645,84,"M","Medicare/NE","NE OASIS Certified",33,"24","Control",0,0,"27","Trained",30.4908333333333,3,"SN","CT",10,3,9,30.4908333333333,3
+"696",696,170,92,"M","Humana Medicare HMO","NE OASIS Certified",19,"24","Control",0,0,"30","Control",0,0,"SN","CC",12,6,8,0,0
+"697",697,648,83,"F","Heartland Plains Health","NE OASIS Certified",26,"24","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",8,1,9,24.1883333333333,0
+"698",698,653,75,"F","Medicare/NE","NE OASIS Certified",33,"24","Control",0,0,"21","Trained",30.6369230769231,22,"SN","CT",11,3,10,30.6369230769231,22
+"699",699,509,73,"M","Medicare/NE","NE OASIS Certified",24,"24","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",12,5,9,38.3626666666667,5
+"700",700,21,84,"F","Medicare/NE","NE OASIS Certified",39,"24","Control",0,0,"10","Trained",36.4998198198198,37,"SN","CT",10,4,8,36.4998198198198,37
+"701",701,169,40,"M","WellCare Of Nebraska","NE OASIS Certified",2,"24","Control",0,0,"24","Control",0,0,"SN","CC",13,13,2,0,0
+"702",702,673,49,"M","Wellmark BCBS Of IA","IA OASIS Certified",13,"24","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",11,2,11,33.1061594202899,38
+"703",703,678,86,"F","Medicare/NE","NE OASIS Certified",17,"24","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",12,4,10,38.3626666666667,5
+"704",704,687,78,"F","Medicare/NE","NE OASIS Certified",35,"24","Control",0,0,"18","Control",0,0,"SN","CC",11,6,7,0,0
+"705",705,689,60,"M","Enrichment","NE OASIS Certified",58,"24","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",8,7,3,33.1061594202899,38
+"706",706,89,39,"F","Medicare/NE","NE OASIS Certified",16,"24","Control",0,0,"20","Control",0,0,"SN","CC",12,5,9,0,0
+"707",707,38,98,"F","Medicare/NE","IA OASIS Certified",33,"7","Trained",27.155,24,"23","Trained",34.1916111111111,27,"SN","TT",11,5,8,61.3466111111111,51
+"708",708,105,54,"F","AmeriHealth Caritas Iowa","NE OASIS Certified",47,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",12,3,11,54.31,48
+"709",709,581,74,"F","Medicare/NE","IA OASIS Certified",15,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",15,2,15,54.31,48
+"710",710,702,47,"F","BCBS Of Nebraska","IA OASIS Certified",26,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",14,4,12,54.31,48
+"711",711,200,59,"F","Advantra Iowa PPS","IA OASIS Certified",46,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",16,1,17,54.31,48
+"712",712,708,63,"M","Amerigroup Iowa","IA OASIS Certified",12,"7","Trained",27.155,24,"7","Trained",27.155,24,"SN","TT",10,1,11,54.31,48
+"713",713,172,72,"F","Advantra Nebraska PPS","NE OASIS Certified",43,"26","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",13,3,12,33.1061594202899,38
+"714",714,593,86,"M","Medicare/NE","IA OASIS Certified",28,"26","Control",0,0,"26","Control",0,0,"SN","CC",10,4,8,0,0
+"715",715,690,90,"F","Medicare/NE","NE OASIS Certified",37,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",8,3,7,62.054380952381,66
+"716",716,283,74,"F","Advantra Nebraska PPS","NE OASIS Certified",20,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",10,2,10,62.054380952381,66
+"717",717,273,84,"F","Medicare/NE","NE OASIS Certified",38,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",11,9,4,62.054380952381,66
+"718",718,654,71,"F","UHC PPS Medicare Complete","IA OASIS Certified",32,"8","Trained",33.4760328638498,62,"2","Trained",25.4658333333333,4,"PT","TT",11,2,11,58.9418661971831,66
+"719",719,557,87,"F","Medicare/NE","NE OASIS Certified",33,"8","Trained",33.4760328638498,62,"8","Trained",33.4760328638498,62,"PT","TT",11,4,9,66.9520657276995,124
+"720",720,78,82,"M","UHC PPS Medicare Complete","NE OASIS Certified",29,"8","Trained",33.4760328638498,62,"8","Trained",33.4760328638498,62,"PT","TT",10,5,7,66.9520657276995,124
+"721",721,168,78,"M","Medicare/NE","NE OASIS Certified",37,"8","Trained",33.4760328638498,62,"25","Trained",15.37,0,"PT","TT",14,3,13,48.8460328638498,62
+"722",722,672,66,"F","Medicare/NE","NE OASIS Certified",29,"8","Trained",33.4760328638498,62,"8","Trained",33.4760328638498,62,"PT","TT",12,2,12,66.9520657276995,124
+"723",723,26,74,"F","UHC PPS Medicare Complete","IA OASIS Certified",31,"8","Trained",33.4760328638498,62,"8","Trained",33.4760328638498,62,"PT","TT",10,4,8,66.9520657276995,124
+"724",724,192,75,"F","Medicare/NE","NE OASIS Certified",16,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",13,8,7,72.9996396396396,74
+"725",725,62,87,"F","UHC PPS Medicare Complete","NE OASIS Certified",31,"10","Trained",36.4998198198198,37,"32","Control",0,0,"PT","TC",13,5,7,36.4998198198198,37
+"726",726,650,23,"M","UHC PPS Medicare Complete","NE OASIS Certified",11,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",7,7,8,72.9996396396396,74
+"727",727,95,99,"F","Medicare/NE","NE OASIS Certified",22,"10","Trained",36.4998198198198,37,"30","Control",0,0,"PT","TC",8,5,5,36.4998198198198,37
+"728",728,159,88,"M","Medicare/NE","IA OASIS Certified",42,"10","Trained",36.4998198198198,37,"2","Trained",25.4658333333333,4,"PT","TT",10,7,5,61.9656531531532,41
+"729",729,337,87,"M","Medicare/NE","IA OASIS Certified",33,"10","Trained",36.4998198198198,37,"2","Trained",25.4658333333333,4,"PT","TT",9,8,3,61.9656531531532,41
+"730",730,666,58,"F","United Healthcare Community Plan","NE OASIS Certified",24,"10","Trained",36.4998198198198,37,"30","Control",0,0,"PT","TC",9,2,9,36.4998198198198,37
+"731",731,669,88,"F","Medicare/NE","NE OASIS Certified",31,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",10,6,6,72.9996396396396,74
+"732",732,75,78,"F","Advantra Iowa PPS","IA OASIS Certified",19,"10","Trained",36.4998198198198,37,"2","Trained",25.4658333333333,4,"PT","TT",12,5,9,61.9656531531532,41
+"733",733,20,52,"F","Medicare/NE","NE OASIS Certified",34,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",9,1,10,72.9996396396396,74
+"734",734,127,86,"M","VA PPS","NE OASIS Certified",59,"10","Trained",36.4998198198198,37,"30","Control",0,0,"PT","TC",9,6,5,36.4998198198198,37
+"735",735,688,95,"M","Medicare/NE","NE OASIS Certified",36,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",8,6,4,72.9996396396396,74
+"736",736,704,88,"F","Medicare/NE","NE OASIS Certified",32,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",8,0,10,72.9996396396396,74
+"737",737,24,64,"F","UHC PPS Medicare Complete","IA OASIS Certified",33,"23","Trained",34.1916111111111,27,"23","Trained",34.1916111111111,27,"PT","TT",10,3,9,68.3832222222222,54
+"738",738,287,93,"F","UHC PPS Medicare Complete","IA OASIS Certified",22,"23","Trained",34.1916111111111,27,"23","Trained",34.1916111111111,27,"PT","TT",11,8,5,68.3832222222222,54
+"739",739,696,90,"F","Medicare/NE","IA OASIS Certified",53,"23","Trained",34.1916111111111,27,"23","Trained",34.1916111111111,27,"PT","TT",12,5,9,68.3832222222222,54
+"740",740,656,96,"F","BCBS Of Nebraska","IA OASIS Certified",2,"15","Control",0,0,"23","Trained",34.1916111111111,27,"PT","CT",9,8,3,34.1916111111111,27
+"741",741,657,64,"M","Medicare/NE","NE OASIS Certified",78,"15","Control",0,0,"17","Trained",42.1933333333333,1,"PT","CT",7,1,8,42.1933333333333,1
+"742",742,671,61,"F","Enrichment","NE OASIS Certified",14,"15","Control",0,0,"15","Control",0,0,"PT","CC",4,3,3,0,0
+"743",743,677,91,"M","UHC PPS Medicare Complete","NE OASIS Certified",29,"15","Control",0,0,"15","Control",0,0,"PT","CC",3,0,5,0,0
+"744",744,692,68,"F","Medicare/NE","NE OASIS Certified",42,"15","Control",0,0,"15","Control",0,0,"PT","CC",11,4,9,0,0
+"745",745,498,45,"F","UHC PPS Medicare Complete","NE OASIS Certified",20,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",11,8,5,76.7253333333333,10
+"746",746,444,83,"F","Advantra Nebraska PPS","NE OASIS Certified",16,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",14,4,12,76.7253333333333,10
+"747",747,686,74,"F","Medicare/NE","NE OASIS Certified",21,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",14,0,13,76.7253333333333,10
+"748",748,709,70,"F","Medicare/NE","NE OASIS Certified",48,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",12,7,7,76.7253333333333,10
+"749",749,46,88,"M","Medicare/NE","NE OASIS Certified",11,"20","Control",0,0,"20","Control",0,0,"SN","CC",11,9,4,0,0
+"750",750,676,90,"M","UHC PPS Medicare Complete","NE OASIS Certified",17,"17","Trained",42.1933333333333,1,"17","Trained",42.1933333333333,1,"SN","TT",11,2,11,84.3866666666667,2
+"751",751,667,79,"M","Medicare/NE","NE OASIS Certified",42,"17","Trained",42.1933333333333,1,"17","Trained",42.1933333333333,1,"SN","TT",9,2,9,84.3866666666667,2
+"752",752,82,85,"F","UHC PPS Medicare Complete","IA OASIS Certified",33,"9","Trained",24.1883333333333,0,"9","Trained",24.1883333333333,0,"SN","TT",9,5,6,48.3766666666667,0
+"753",753,524,58,"M","AmeriHealth Caritas Iowa","IA OASIS Certified",23,"9","Trained",24.1883333333333,0,"23","Trained",34.1916111111111,27,"SN","TT",6,2,6,58.3799444444444,27
+"754",754,664,58,"M","AmeriHealth Caritas Iowa","IA OASIS Certified",39,"9","Trained",24.1883333333333,0,"9","Trained",24.1883333333333,0,"SN","TT",11,5,8,48.3766666666667,0
+"755",755,123,61,"F","Medicare/NE","IA OASIS Certified",48,"9","Trained",24.1883333333333,0,"9","Trained",24.1883333333333,0,"SN","TT",16,9,9,48.3766666666667,0
+"756",756,112,86,"M","UHC PPS Medicare Complete","NE OASIS Certified",24,"15","Control",0,0,"15","Control",0,0,"PT","CC",8,4,6,0,0
+"757",757,71,67,"M","Medicare/NE","NE OASIS Certified",36,"10","Trained",36.4998198198198,37,"30","Control",0,0,"PT","TC",13,5,10,36.4998198198198,37
+"758",758,721,91,"F","Medicare/NE","NE OASIS Certified",25,"10","Trained",36.4998198198198,37,"30","Control",0,0,"PT","TC",9,3,8,36.4998198198198,37
+"759",759,159,88,"M","Medicare/NE","NE OASIS Certified",26,"10","Trained",36.4998198198198,37,"8","Trained",33.4760328638498,62,"PT","TT",10,7,5,69.9758526836696,99
+"760",760,730,67,"F","Medicare/NE","NE OASIS Certified",26,"10","Trained",36.4998198198198,37,"10","Trained",36.4998198198198,37,"PT","TT",9,3,8,72.9996396396396,74
+"761",761,712,91,"M","Medicare/NE","IA OASIS Certified",45,"24","Control",0,0,"3","Trained",33.1061594202899,38,"SN","CT",9,7,4,33.1061594202899,38
+"762",762,222,78,"F","Medicare/NE","NE OASIS Certified",10,"24","Control",0,0,"20","Control",0,0,"SN","CC",9,4,7,0,0
+"763",763,725,73,"F","Medicare/NE","NE OASIS Certified",17,"24","Control",0,0,"11","Trained",28.2983333333333,3,"SN","CT",12,4,10,28.2983333333333,3
+"764",764,535,52,"F","AmeriHealth Caritas Iowa","IA OASIS Certified",13,"24","Control",0,0,"9","Trained",24.1883333333333,0,"SN","CT",14,8,8,24.1883333333333,0
+"765",765,115,68,"M","Enrichment","NE OASIS Certified",25,"24","Control",0,0,"4","Trained",38.3626666666667,5,"SN","CT",12,5,9,38.3626666666667,5
+"766",766,717,69,"F","UHC PPS Medicare Complete","NE OASIS Certified",12,"11","Trained",28.2983333333333,3,"11","Trained",28.2983333333333,3,"SN","TT",9,0,11,56.5966666666667,6
+"767",767,728,54,"F","Medicare/NE","NE OASIS Certified",20,"11","Trained",28.2983333333333,3,"11","Trained",28.2983333333333,3,"SN","TT",10,1,11,56.5966666666667,6
+"768",768,714,91,"M","Medicare/NE","NE OASIS Certified",21,"4","Trained",38.3626666666667,5,"4","Trained",38.3626666666667,5,"SN","TT",11,6,7,76.7253333333333,10
+"769",769,716,90,"F","Medicare/NE","IA OASIS Certified",27,"23","Trained",34.1916111111111,27,"23","Trained",34.1916111111111,27,"PT","TT",7,5,4,68.3832222222222,54
+"770",770,325,87,"F","Medicare/NE","NE OASIS Certified",27,"30","Control",0,0,"30","Control",0,0,"PT","CC",4,4,2,0,0
+"771",771,182,68,"M","Medicare/NE","NE OASIS Certified",41,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",14,6,10,62.054380952381,66
+"772",772,724,79,"M","UHC PPS Medicare Complete","NE OASIS Certified",12,"1","Trained",31.0271904761905,33,"30","Control",0,0,"PT","TC",10,2,10,31.0271904761905,33
+"773",773,729,77,"F","Medicare/NE","NE OASIS Certified",27,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",9,1,10,62.054380952381,66
+"774",774,272,79,"M","Medicare/NE","NE OASIS Certified",14,"1","Trained",31.0271904761905,33,"1","Trained",31.0271904761905,33,"PT","TT",13,3,9,62.054380952381,66
+"775",775,731,50,"F","Wellmark BCBS Of IA","IA OASIS Certified",15,"2","Trained",25.4658333333333,4,"23","Trained",34.1916111111111,27,"PT","TT",13,7,8,59.6574444444444,31
+"776",776,718,35,"F","United Way","VNHS HC",14,"17","Trained",42.1933333333333,1,"20","Control",0,0,"SN","TC",3,1,4,42.1933333333333,1
+"777",777,28,68,"F","UHC PPS Medicare Complete","NE OASIS Certified",6,"20","Control",0,0,"20","Control",0,0,"SN","CC",14,4,12,0,0
+"778",778,745,96,"F","Medicare/NE","NE OASIS Certified",5,"5","Control",0,0,"13","Control",0,0,"SN","CC",14,10,0,0,0
